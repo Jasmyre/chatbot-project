@@ -1,0 +1,580 @@
+{
+    "nouns": [
+        "Skills",
+        "architecture",
+        "you",
+        "creative ideas",
+        "them",
+        "life.",
+        "The more",
+        "you",
+        "imagination",
+        "something real,",
+        "you",
+        "it.",
+        "Creativity",
+        "ideas—",
+        "it’s",
+        "them"
+    ],
+    "verbs": [
+        "like painting,",
+        "sculpt,",
+        "improve",
+        "take",
+        "actually bring",
+        "practice turning",
+        "get at",
+        "does not just about have",
+        "be",
+        "make",
+        "happen!"
+    ],
+    "adjectives": [
+        "creative",
+        "real,",
+        "better"
+    ],
+    "people": [],
+    "places": [],
+    "organizations": [],
+    "tags": {
+        "Expression": [
+            "Yeah"
+        ],
+        "Adverb": [
+            "exactly",
+            "actually",
+            "just",
+            "about"
+        ],
+        "Noun": [
+            "Skills",
+            "architecture",
+            "you",
+            "ideas",
+            "them",
+            "life",
+            "more",
+            "imagination",
+            "something",
+            "it",
+            "Creativity",
+            "have",
+            "make"
+        ],
+        "Plural": [
+            "Skills",
+            "ideas"
+        ],
+        "Verb": [
+            "like",
+            "painting",
+            "sculpt",
+            "improve",
+            "take",
+            "bring",
+            "practice",
+            "turning",
+            "get",
+            "at",
+            "does",
+            "be",
+            "happen"
+        ],
+        "PresentTense": [
+            "like",
+            "painting",
+            "sculpt",
+            "improve",
+            "take",
+            "bring",
+            "practice",
+            "turning",
+            "get",
+            "be",
+            "happen"
+        ],
+        "Infinitive": [
+            "like",
+            "sculpt",
+            "improve",
+            "take",
+            "bring",
+            "practice",
+            "get",
+            "be",
+            "happen"
+        ],
+        "Gerund": [
+            "painting",
+            "turning"
+        ],
+        "Conjunction": [
+            "and",
+            "to"
+        ],
+        "Singular": [
+            "architecture",
+            "life",
+            "more",
+            "imagination",
+            "Creativity",
+            "have",
+            "make"
+        ],
+        "Preposition": [
+            "when",
+            "into",
+            "about"
+        ],
+        "Pronoun": [
+            "you",
+            "them",
+            "it"
+        ],
+        "Adjective": [
+            "creative",
+            "real",
+            "better"
+        ],
+        "Determiner": [
+            "The",
+            "the"
+        ],
+        "Uncountable": [
+            "something"
+        ],
+        "Comparative": [
+            "better"
+        ],
+        "PhrasalVerb": [
+            "get",
+            "at"
+        ],
+        "Particle": [
+            "at"
+        ],
+        "Auxiliary": [
+            "does"
+        ],
+        "Negative": [
+            "not"
+        ],
+        "Copula": [
+            "be"
+        ]
+    },
+    "sentences": [
+        {
+            "text": "Yeah, exactly!",
+            "structure": [
+                "Expression",
+                "Adverb"
+            ],
+            "terms": [
+                {
+                    "text": "Yeah",
+                    "tags": [
+                        "Expression"
+                    ]
+                },
+                {
+                    "text": "exactly",
+                    "tags": [
+                        "Adverb"
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Skills like painting, sculpt, and architecture improve when you take creative ideas and actually bring them to life.",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Verb",
+                "Verb",
+                "Conjunction",
+                "Noun",
+                "Verb",
+                "Preposition",
+                "Noun",
+                "Verb",
+                "Adjective",
+                "Noun",
+                "Conjunction",
+                "Adverb",
+                "Verb",
+                "Noun",
+                "Conjunction",
+                "Noun"
+            ],
+            "terms": [
+                {
+                    "text": "Skills",
+                    "tags": [
+                        "Noun",
+                        "Plural"
+                    ]
+                },
+                {
+                    "text": "like",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                },
+                {
+                    "text": "painting",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Gerund"
+                    ]
+                },
+                {
+                    "text": "sculpt",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                },
+                {
+                    "text": "and",
+                    "tags": [
+                        "Conjunction"
+                    ]
+                },
+                {
+                    "text": "architecture",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                },
+                {
+                    "text": "improve",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                },
+                {
+                    "text": "when",
+                    "tags": [
+                        "Preposition"
+                    ]
+                },
+                {
+                    "text": "you",
+                    "tags": [
+                        "Noun",
+                        "Pronoun"
+                    ]
+                },
+                {
+                    "text": "take",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                },
+                {
+                    "text": "creative",
+                    "tags": [
+                        "Adjective"
+                    ]
+                },
+                {
+                    "text": "ideas",
+                    "tags": [
+                        "Noun",
+                        "Plural"
+                    ]
+                },
+                {
+                    "text": "and",
+                    "tags": [
+                        "Conjunction"
+                    ]
+                },
+                {
+                    "text": "actually",
+                    "tags": [
+                        "Adverb"
+                    ]
+                },
+                {
+                    "text": "bring",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                },
+                {
+                    "text": "them",
+                    "tags": [
+                        "Noun",
+                        "Pronoun"
+                    ]
+                },
+                {
+                    "text": "to",
+                    "tags": [
+                        "Conjunction"
+                    ]
+                },
+                {
+                    "text": "life",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "The more you practice turning imagination into something real, the better you get at it.",
+            "structure": [
+                "Determiner",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Singular",
+                "Preposition",
+                "Noun",
+                "Adjective",
+                "Determiner",
+                "Adjective",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun"
+            ],
+            "terms": [
+                {
+                    "text": "The",
+                    "tags": [
+                        "Determiner"
+                    ]
+                },
+                {
+                    "text": "more",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                },
+                {
+                    "text": "you",
+                    "tags": [
+                        "Noun",
+                        "Pronoun"
+                    ]
+                },
+                {
+                    "text": "practice",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                },
+                {
+                    "text": "turning",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Gerund"
+                    ]
+                },
+                {
+                    "text": "imagination",
+                    "tags": [
+                        "Singular",
+                        "Noun"
+                    ]
+                },
+                {
+                    "text": "into",
+                    "tags": [
+                        "Preposition"
+                    ]
+                },
+                {
+                    "text": "something",
+                    "tags": [
+                        "Noun",
+                        "Uncountable"
+                    ]
+                },
+                {
+                    "text": "real",
+                    "tags": [
+                        "Adjective"
+                    ]
+                },
+                {
+                    "text": "the",
+                    "tags": [
+                        "Determiner"
+                    ]
+                },
+                {
+                    "text": "better",
+                    "tags": [
+                        "Adjective",
+                        "Comparative"
+                    ]
+                },
+                {
+                    "text": "you",
+                    "tags": [
+                        "Noun",
+                        "Pronoun"
+                    ]
+                },
+                {
+                    "text": "get",
+                    "tags": [
+                        "Verb",
+                        "PhrasalVerb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                },
+                {
+                    "text": "at",
+                    "tags": [
+                        "Verb",
+                        "PhrasalVerb",
+                        "Particle"
+                    ]
+                },
+                {
+                    "text": "it",
+                    "tags": [
+                        "Noun",
+                        "Pronoun"
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Creativity does not just about have ideas—it be about make them happen!",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Negative",
+                "Adverb",
+                "Adverb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Preposition",
+                "Noun",
+                "Noun",
+                "Verb"
+            ],
+            "terms": [
+                {
+                    "text": "Creativity",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                },
+                {
+                    "text": "does",
+                    "tags": [
+                        "Verb",
+                        "Auxiliary"
+                    ]
+                },
+                {
+                    "text": "not",
+                    "tags": [
+                        "Negative"
+                    ]
+                },
+                {
+                    "text": "just",
+                    "tags": [
+                        "Adverb"
+                    ]
+                },
+                {
+                    "text": "about",
+                    "tags": [
+                        "Adverb"
+                    ]
+                },
+                {
+                    "text": "have",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                },
+                {
+                    "text": "ideas",
+                    "tags": [
+                        "Noun",
+                        "Plural"
+                    ]
+                },
+                {
+                    "text": "it",
+                    "tags": [
+                        "Noun",
+                        "Pronoun"
+                    ]
+                },
+                {
+                    "text": "be",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive",
+                        "Copula"
+                    ]
+                },
+                {
+                    "text": "about",
+                    "tags": [
+                        "Preposition"
+                    ]
+                },
+                {
+                    "text": "make",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                },
+                {
+                    "text": "them",
+                    "tags": [
+                        "Noun",
+                        "Pronoun"
+                    ]
+                },
+                {
+                    "text": "happen",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                }
+            ]
+        }
+    ]
+}

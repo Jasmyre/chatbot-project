@@ -1,0 +1,29 @@
+{
+    "paragraphs": [
+        "The quick brown fox jumps over the lazy dog. Apples are delicious fruits.",
+        "The quick brown fox jumps over the lazy dog. Apples are delicious fruits."
+    ],
+    "nouns": [
+        "The quick brown fox",
+        "over the lazy dog.",
+        "Apples",
+        "fruits."
+    ],
+    "verbs": [
+        "jumps",
+        "are"
+    ],
+    "adjectives": [
+        "quick",
+        "brown",
+        "over",
+        "lazy",
+        "delicious"
+    ],
+    "sentenceStructures": [
+        "the [adjective] [adjective] [noun] [verb] [adjective] the [adjective] [noun]",
+        "[noun] [verb] [adjective] [noun]",
+        "The [adjectives] [adjectives] [nouns] [verbs] [adjectives] the [adjectives] [nouns]",
+        "[nouns] [verbs] [adjectives] [nouns]"
+    ]
+}

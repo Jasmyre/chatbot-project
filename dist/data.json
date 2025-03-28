@@ -1,0 +1,3480 @@
+[
+    {
+        "sentence": "John Doe works at OpenAI in San Francisco.",
+        "words": [
+            {
+                "text": "John",
+                "tags": [
+                    "Noun",
+                    "Singular",
+                    "Person",
+                    "FirstName",
+                    "ProperNoun",
+                    "MaleName"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "Doe",
+                "tags": [
+                    "ProperNoun",
+                    "Noun",
+                    "Singular",
+                    "Person",
+                    "LastName"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "works",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "at",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "OpenAI",
+                "tags": [
+                    "ProperNoun",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "in",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "San",
+                "tags": [
+                    "Noun",
+                    "Singular",
+                    "Place",
+                    "ProperNoun",
+                    "City"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "Francisco",
+                "tags": [
+                    "Noun",
+                    "Singular",
+                    "Place",
+                    "ProperNoun",
+                    "City"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "He announced on March 15, 2023: \"We're developing revolutionary AI technology\".",
+        "words": [
+            {
+                "text": "He",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "announced",
+                "tags": [
+                    "Verb",
+                    "PastTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "on",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "March",
+                "tags": [
+                    "ProperNoun",
+                    "Noun",
+                    "Date",
+                    "Month"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "15",
+                "tags": [
+                    "Value",
+                    "Cardinal",
+                    "NumericValue",
+                    "Date"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "2023",
+                "tags": [
+                    "Value",
+                    "Cardinal",
+                    "NumericValue",
+                    "Year",
+                    "Date"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "We're",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "developing",
+                "tags": [
+                    "Noun",
+                    "Actor"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "revolutionary",
+                "tags": [
+                    "Noun",
+                    "Actor",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "AI",
+                "tags": [
+                    "Acronym",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "technology",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "This innovative project could change the future of computing.",
+        "words": [
+            {
+                "text": "This",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "innovative",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "project",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "could",
+                "tags": [
+                    "Verb",
+                    "Modal",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "change",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "future",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "of",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "computing",
+                "tags": [
+                    "Gerund",
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb"
+        ]
+    },
+    {
+        "sentence": "The quick brown fox jumps over the lazy dog.",
+        "words": [
+            {
+                "text": "The",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "quick",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "brown",
+                "tags": [
+                    "Adjective",
+                    "Comparative"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "fox",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "jumps",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "over",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "lazy",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "dog",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "This classic sentence contains all letters of the English alphabet.",
+        "words": [
+            {
+                "text": "This",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "classic",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "sentence",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "contains",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "all",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "letters",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "of",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "English",
+                "tags": [
+                    "ProperNoun",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "alphabet",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Artificial intelligence is transforming industries worldwide.",
+        "words": [
+            {
+                "text": "Artificial",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "intelligence",
+                "tags": [
+                    "Singular",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "is",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "transforming",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "industries",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "worldwide",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Companies like Google and Microsoft are investing billions in AI research.",
+        "words": [
+            {
+                "text": "Companies",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "like",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": null
+            },
+            {
+                "text": "Google",
+                "tags": [
+                    "Noun",
+                    "ProperNoun",
+                    "Organization"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "and",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "Microsoft",
+                "tags": [
+                    "Noun",
+                    "ProperNoun",
+                    "Organization"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "are",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "investing",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "billions",
+                "tags": [
+                    "Value",
+                    "TextValue",
+                    "Cardinal"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "in",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "AI",
+                "tags": [
+                    "Acronym",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "research",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Climate change remains one of humanity's greatest challenges.",
+        "words": [
+            {
+                "text": "Climate",
+                "tags": [
+                    "Singular",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "change",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "remains",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "one",
+                "tags": [
+                    "Value",
+                    "TextValue",
+                    "Cardinal"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "of",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "humanity's",
+                "tags": [
+                    "Noun",
+                    "Singular",
+                    "Possessive"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "greatest",
+                "tags": [
+                    "Adjective",
+                    "Superlative"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "challenges",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Rising temperatures are causing extreme weather events across the globe.",
+        "words": [
+            {
+                "text": "Rising",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "temperatures",
+                "tags": [
+                    "Plural",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "are",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "causing",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "extreme",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "weather",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "events",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "across",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "globe",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Verb",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Scientists warn we must act before 2030 to avoid catastrophic consequences.",
+        "words": [
+            {
+                "text": "Scientists",
+                "tags": [
+                    "Noun",
+                    "Plural",
+                    "Actor"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "warn",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "we",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "must",
+                "tags": [
+                    "Verb",
+                    "Modal",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "act",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "before",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "2030",
+                "tags": [
+                    "Value",
+                    "Cardinal",
+                    "NumericValue",
+                    "Year",
+                    "Date"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "to",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "avoid",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "catastrophic",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "consequences",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Pivot",
+            "Verb",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "This code is basically doing some natural language processing (NLP) on a few paragraphs, then it randomly generates new sentences based on the processed data.",
+        "words": [
+            {
+                "text": "This",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "code",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "is",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "basically",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "doing",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "some",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "natural",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "language",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "processing",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "NLP",
+                "tags": [
+                    "Acronym",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "on",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Value"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "few",
+                "tags": [
+                    "Value"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "paragraphs",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "then",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "it",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "randomly",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "generates",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "new",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "sentences",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "based",
+                "tags": [
+                    "Verb",
+                    "PastTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "on",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "processed",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "data",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Here's a simple breakdown:",
+        "words": [
+            {
+                "text": "Here's",
+                "tags": [
+                    "Noun",
+                    "Uncountable"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "simple",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "breakdown",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Parsing the Text:",
+        "words": [
+            {
+                "text": "Parsing",
+                "tags": [
+                    "Gerund",
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "Text",
+                "tags": [
+                    "Noun",
+                    "Singular",
+                    "ProperNoun"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Verb",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "It uses the \"compromise\" library to convert each paragraph into JSON data that includes words, their tags, and chunks (groupings of words).",
+        "words": [
+            {
+                "text": "It",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "uses",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "compromise",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "library",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "to",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "convert",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "each",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "paragraph",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "into",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "JSON",
+                "tags": [
+                    "Acronym",
+                    "Noun",
+                    "ProperNoun",
+                    "Organization"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "data",
+                "tags": [
+                    "Noun",
+                    "Singular",
+                    "ProperNoun",
+                    "Organization"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "that",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "includes",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "words",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "their",
+                "tags": [
+                    "Noun",
+                    "Possessive",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "tags",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "and",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "chunks",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "groupings",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "of",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "words",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Organizing the Data:",
+        "words": [
+            {
+                "text": "Organizing",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "Data",
+                "tags": [
+                    "ProperNoun",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Verb",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "The code then maps each sentence into a structure that includes:",
+        "words": [
+            {
+                "text": "The",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "code",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "then",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "maps",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "each",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "sentence",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "into",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "structure",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "that",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "includes",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb"
+        ]
+    },
+    {
+        "sentence": "The sentence text.",
+        "words": [
+            {
+                "text": "The",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "sentence",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "text",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "An array of words (each word with its text, tags, and optionally a chunk).",
+        "words": [
+            {
+                "text": "An",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "array",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "of",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "words",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "each",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "word",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "with",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "its",
+                "tags": [
+                    "Noun",
+                    "Possessive"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "text",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "tags",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "and",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "optionally",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": null
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "chunk",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "An array of chunks (sentence structure).",
+        "words": [
+            {
+                "text": "An",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "array",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "of",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "chunks",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "sentence",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "structure",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Generating Random Sentences:",
+        "words": [
+            {
+                "text": "Generating",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "Random",
+                "tags": [
+                    "ProperNoun",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "Sentences",
+                "tags": [
+                    "ProperNoun",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Verb",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "It collects all possible sentence structures from the analysis, and then for each chunk in a random structure, it picks a random word that belongs to that chunk.",
+        "words": [
+            {
+                "text": "It",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "collects",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "all",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "possible",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "sentence",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "structures",
+                "tags": [
+                    "Plural",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "from",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "analysis",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "and",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "then",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "for",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "each",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "chunk",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "in",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "random",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "structure",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "it",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "picks",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "random",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "word",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "that",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "belongs",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "to",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "that",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "chunk",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Pivot",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "It joins these words together to create a new sentence and makes sure the punctuation and capitalization are fixed.",
+        "words": [
+            {
+                "text": "It",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "joins",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "these",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "words",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "together",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "to",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "create",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "new",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "sentence",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "and",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "makes",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "PhrasalVerb"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "sure",
+                "tags": [
+                    "Verb",
+                    "PhrasalVerb",
+                    "Particle"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "punctuation",
+                "tags": [
+                    "Singular",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "and",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "capitalization",
+                "tags": [
+                    "Singular",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "are",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "fixed",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Adjective"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Adjective"
+        ]
+    },
+    {
+        "sentence": "Working with Files:",
+        "words": [
+            {
+                "text": "Working",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "with",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "Files",
+                "tags": [
+                    "Noun",
+                    "Plural",
+                    "ProperNoun"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Verb",
+            "Pivot",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "It reads a JSON file (data.json) to get some pre-analyzed data (if it exists) and then writes the new analysis results back to that file after processing the paragraphs.",
+        "words": [
+            {
+                "text": "It",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "reads",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "JSON",
+                "tags": [
+                    "Acronym",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "file",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "data.json",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "to",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "get",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "some",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "pre-analyzed",
+                "tags": [
+                    "Verb",
+                    "PastTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "data",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "if",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "it",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "exists",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "and",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "then",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "writes",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "new",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "analysis",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "results",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "back",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "to",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "that",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "file",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "after",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "processing",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "paragraphs",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Verb",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Pivot",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Overall, the code's aim is to experiment with text generation using sentence structures and random word selection.",
+        "words": [
+            {
+                "text": "Overall",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "code's",
+                "tags": [
+                    "Noun",
+                    "Possessive"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "aim",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "is",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "to",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "experiment",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "with",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "text",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "generation",
+                "tags": [
+                    "Singular",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "using",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "sentence",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "structures",
+                "tags": [
+                    "Plural",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "and",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "random",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "word",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "selection",
+                "tags": [
+                    "Singular",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "It might be a fun way to see how sentences can be \"reassembled\" in unexpected ways!",
+        "words": [
+            {
+                "text": "It",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "might",
+                "tags": [
+                    "Verb",
+                    "Modal",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "be",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "fun",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "way",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "to",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "see",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "how",
+                "tags": [
+                    "QuestionWord"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "sentences",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "can",
+                "tags": [
+                    "Verb",
+                    "Modal",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "be",
+                "tags": [
+                    "Verb",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "reassembled",
+                "tags": [
+                    "Verb",
+                    "PastTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "in",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "unexpected",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "ways",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Let me know if you need more details or have any other questions about it.",
+        "words": [
+            {
+                "text": "Let",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive",
+                    "Imperative"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "me",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "know",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive",
+                    "Imperative"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "if",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "you",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "need",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "more",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "details",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "or",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "have",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "any",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "other",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "questions",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "about",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "it",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Verb",
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Pivot",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "No, that sentence is not grammatically correct.",
+        "words": [
+            {
+                "text": "No",
+                "tags": [
+                    "Expression"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "that",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "sentence",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "is",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "not",
+                "tags": [
+                    "Negative"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "grammatically",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Adjective"
+            },
+            {
+                "text": "correct",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Adjective",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "It seems like the words are out of order.",
+        "words": [
+            {
+                "text": "It",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "seems",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "like",
+                "tags": [
+                    "Adverb"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "words",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "are",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "out",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "of",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "order",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Pivot",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "A possible correction could be:",
+        "words": [
+            {
+                "text": "A",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "possible",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "correction",
+                "tags": [
+                    "Singular",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "could",
+                "tags": [
+                    "Verb",
+                    "Modal",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "be",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb"
+        ]
+    },
+    {
+        "sentence": "\"AI remains a project that will change companies across the future of English.\"",
+        "words": [
+            {
+                "text": "AI",
+                "tags": [
+                    "Acronym",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "remains",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "project",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "that",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "will",
+                "tags": [
+                    "Verb",
+                    "Modal",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "change",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "companies",
+                "tags": [
+                    "Noun",
+                    "Plural"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "across",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "future",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "of",
+                "tags": [
+                    "Preposition"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "English",
+                "tags": [
+                    "ProperNoun",
+                    "Noun"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Noun",
+            "Verb",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Noun",
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "But the meaning is still a bit unclear.",
+        "words": [
+            {
+                "text": "But",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "the",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "meaning",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "is",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "PresentTense"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "still",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Adjective"
+            },
+            {
+                "text": "a",
+                "tags": [
+                    "Determiner"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "bit",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "unclear",
+                "tags": [
+                    "Adjective"
+                ],
+                "chunk": "Noun"
+            }
+        ],
+        "structure": [
+            "Pivot",
+            "Noun",
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Noun",
+            "Noun",
+            "Noun"
+        ]
+    },
+    {
+        "sentence": "Could you clarify what you're trying to say?",
+        "words": [
+            {
+                "text": "Could",
+                "tags": [
+                    "Verb",
+                    "Modal"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "you",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "clarify",
+                "tags": [
+                    "Infinitive",
+                    "Verb",
+                    "PresentTense",
+                    "Imperative"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "what",
+                "tags": [
+                    "Conjunction",
+                    "Preposition"
+                ],
+                "chunk": "Pivot"
+            },
+            {
+                "text": "you're",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "chunk": "Noun"
+            },
+            {
+                "text": "",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "Auxiliary"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "trying",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Gerund"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "to",
+                "tags": [
+                    "Conjunction"
+                ],
+                "chunk": "Verb"
+            },
+            {
+                "text": "say",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "chunk": "Verb"
+            }
+        ],
+        "structure": [
+            "Verb",
+            "Noun",
+            "Verb",
+            "Pivot",
+            "Noun",
+            "Verb",
+            "Verb",
+            "Verb",
+            "Verb"
+        ]
+    }
+]

@@ -1,0 +1,428 @@
+{
+    "nouns": [
+        "John Doe",
+        "OpenAI",
+        "San Francisco.",
+        "He",
+        "March 15,",
+        "\"We're",
+        "developing revolutionary AI technology\".",
+        "This innovative project",
+        "the future"
+    ],
+    "verbs": [
+        "work",
+        "announce",
+        "be",
+        "change",
+        "compute."
+    ],
+    "adjectives": [
+        "innovative"
+    ],
+    "people": [
+        "John Doe"
+    ],
+    "places": [
+        "San Francisco."
+    ],
+    "organizations": [],
+    "quotations": [
+        "\"We be developing revolutionary AI technology\"."
+    ],
+    "topics": [
+        "San Francisco.",
+        "John Doe"
+    ],
+    "tags": {
+        "Noun": [
+            "John",
+            "Doe",
+            "work",
+            "OpenAI",
+            "San",
+            "Francisco",
+            "He",
+            "March",
+            "We",
+            "developing",
+            "revolutionary",
+            "AI",
+            "technology",
+            "project",
+            "future",
+            "compute"
+        ],
+        "Singular": [
+            "John",
+            "Doe",
+            "work",
+            "San",
+            "Francisco",
+            "revolutionary",
+            "technology",
+            "project",
+            "future",
+            "compute"
+        ],
+        "Person": [
+            "John",
+            "Doe"
+        ],
+        "FirstName": [
+            "John"
+        ],
+        "ProperNoun": [
+            "John",
+            "Doe",
+            "OpenAI",
+            "San",
+            "Francisco",
+            "March"
+        ],
+        "MaleName": [
+            "John"
+        ],
+        "LastName": [
+            "Doe"
+        ],
+        "Preposition": [
+            "at",
+            "in",
+            "on",
+            "of"
+        ],
+        "Place": [
+            "San",
+            "Francisco"
+        ],
+        "City": [
+            "San",
+            "Francisco"
+        ],
+        "Pronoun": [
+            "He",
+            "We"
+        ],
+        "Verb": [
+            "announce",
+            "be",
+            "change"
+        ],
+        "PresentTense": [
+            "announce",
+            "change"
+        ],
+        "Infinitive": [
+            "announce",
+            "change"
+        ],
+        "Date": [
+            "March",
+            "15",
+            "2023"
+        ],
+        "Month": [
+            "March"
+        ],
+        "Value": [
+            "15",
+            "2023"
+        ],
+        "Cardinal": [
+            "15",
+            "2023"
+        ],
+        "NumericValue": [
+            "15",
+            "2023"
+        ],
+        "Year": [
+            "2023"
+        ],
+        "Copula": [
+            "be"
+        ],
+        "Auxiliary": [
+            "be"
+        ],
+        "Actor": [
+            "developing",
+            "revolutionary"
+        ],
+        "Acronym": [
+            "AI"
+        ],
+        "Determiner": [
+            "This",
+            "the"
+        ],
+        "Adjective": [
+            "innovative"
+        ]
+    },
+    "sentences": [
+        {
+            "text": "John Doe work at OpenAI in San Francisco.",
+            "structure": [
+                "Noun",
+                "ProperNoun",
+                "Noun",
+                "Preposition",
+                "ProperNoun",
+                "Preposition",
+                "Noun",
+                "Noun"
+            ],
+            "terms": [
+                {
+                    "text": "John",
+                    "tags": [
+                        "Noun",
+                        "Singular",
+                        "Person",
+                        "FirstName",
+                        "ProperNoun",
+                        "MaleName"
+                    ]
+                },
+                {
+                    "text": "Doe",
+                    "tags": [
+                        "ProperNoun",
+                        "Noun",
+                        "Singular",
+                        "Person",
+                        "LastName"
+                    ]
+                },
+                {
+                    "text": "work",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                },
+                {
+                    "text": "at",
+                    "tags": [
+                        "Preposition"
+                    ]
+                },
+                {
+                    "text": "OpenAI",
+                    "tags": [
+                        "ProperNoun",
+                        "Noun"
+                    ]
+                },
+                {
+                    "text": "in",
+                    "tags": [
+                        "Preposition"
+                    ]
+                },
+                {
+                    "text": "San",
+                    "tags": [
+                        "Noun",
+                        "Singular",
+                        "Place",
+                        "ProperNoun",
+                        "City"
+                    ]
+                },
+                {
+                    "text": "Francisco",
+                    "tags": [
+                        "Noun",
+                        "Singular",
+                        "Place",
+                        "ProperNoun",
+                        "City"
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "He announce on March 15, 2023: \"We be developing revolutionary AI technology\".",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Preposition",
+                "ProperNoun",
+                "Value",
+                "Value",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Acronym",
+                "Noun"
+            ],
+            "terms": [
+                {
+                    "text": "He",
+                    "tags": [
+                        "Noun",
+                        "Pronoun"
+                    ]
+                },
+                {
+                    "text": "announce",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                },
+                {
+                    "text": "on",
+                    "tags": [
+                        "Preposition"
+                    ]
+                },
+                {
+                    "text": "March",
+                    "tags": [
+                        "ProperNoun",
+                        "Noun",
+                        "Date",
+                        "Month"
+                    ]
+                },
+                {
+                    "text": "15",
+                    "tags": [
+                        "Value",
+                        "Cardinal",
+                        "NumericValue",
+                        "Date"
+                    ]
+                },
+                {
+                    "text": "2023",
+                    "tags": [
+                        "Value",
+                        "Cardinal",
+                        "NumericValue",
+                        "Year",
+                        "Date"
+                    ]
+                },
+                {
+                    "text": "We",
+                    "tags": [
+                        "Noun",
+                        "Pronoun"
+                    ]
+                },
+                {
+                    "text": "be",
+                    "tags": [
+                        "Verb",
+                        "Copula",
+                        "Auxiliary"
+                    ]
+                },
+                {
+                    "text": "developing",
+                    "tags": [
+                        "Noun",
+                        "Actor"
+                    ]
+                },
+                {
+                    "text": "revolutionary",
+                    "tags": [
+                        "Noun",
+                        "Actor",
+                        "Singular"
+                    ]
+                },
+                {
+                    "text": "AI",
+                    "tags": [
+                        "Acronym",
+                        "Noun"
+                    ]
+                },
+                {
+                    "text": "technology",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "This innovative project change the future of compute.",
+            "structure": [
+                "Determiner",
+                "Adjective",
+                "Noun",
+                "Verb",
+                "Determiner",
+                "Noun",
+                "Preposition",
+                "Noun"
+            ],
+            "terms": [
+                {
+                    "text": "This",
+                    "tags": [
+                        "Determiner"
+                    ]
+                },
+                {
+                    "text": "innovative",
+                    "tags": [
+                        "Adjective"
+                    ]
+                },
+                {
+                    "text": "project",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                },
+                {
+                    "text": "change",
+                    "tags": [
+                        "Verb",
+                        "PresentTense",
+                        "Infinitive"
+                    ]
+                },
+                {
+                    "text": "the",
+                    "tags": [
+                        "Determiner"
+                    ]
+                },
+                {
+                    "text": "future",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                },
+                {
+                    "text": "of",
+                    "tags": [
+                        "Preposition"
+                    ]
+                },
+                {
+                    "text": "compute",
+                    "tags": [
+                        "Noun",
+                        "Singular"
+                    ]
+                }
+            ]
+        }
+    ]
+}

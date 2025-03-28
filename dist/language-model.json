@@ -1,0 +1,4846 @@
+{
+    "words": {
+        "john-Noun-Singular-Person-FirstName-ProperNoun-MaleName": {
+            "id": "john-Noun-Singular-Person-FirstName-ProperNoun-MaleName",
+            "text": "John",
+            "normalized": "john",
+            "tags": [
+                "Noun",
+                "Singular",
+                "Person",
+                "FirstName",
+                "ProperNoun",
+                "MaleName"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "doe-ProperNoun-Noun-Singular-Person-LastName": {
+            "id": "doe-ProperNoun-Noun-Singular-Person-LastName",
+            "text": "Doe",
+            "normalized": "doe",
+            "tags": [
+                "ProperNoun",
+                "Noun",
+                "Singular",
+                "Person",
+                "LastName"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "works-Verb-PresentTense": {
+            "id": "works-Verb-PresentTense",
+            "text": "works",
+            "normalized": "works",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "at-Preposition": {
+            "id": "at-Preposition",
+            "text": "at",
+            "normalized": "at",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 2
+        },
+        "openai-ProperNoun-Noun": {
+            "id": "openai-ProperNoun-Noun",
+            "text": "OpenAI",
+            "normalized": "openai",
+            "tags": [
+                "ProperNoun",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "in-Preposition": {
+            "id": "in-Preposition",
+            "text": "in",
+            "normalized": "in",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 5
+        },
+        "san-Noun-Singular-Place-ProperNoun-City": {
+            "id": "san-Noun-Singular-Place-ProperNoun-City",
+            "text": "San",
+            "normalized": "san",
+            "tags": [
+                "Noun",
+                "Singular",
+                "Place",
+                "ProperNoun",
+                "City"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "francisco-Noun-Singular-Place-ProperNoun-City": {
+            "id": "francisco-Noun-Singular-Place-ProperNoun-City",
+            "text": "Francisco",
+            "normalized": "francisco",
+            "tags": [
+                "Noun",
+                "Singular",
+                "Place",
+                "ProperNoun",
+                "City"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "he-Noun-Pronoun": {
+            "id": "he-Noun-Pronoun",
+            "text": "He",
+            "normalized": "he",
+            "tags": [
+                "Noun",
+                "Pronoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "announced-Verb-PastTense": {
+            "id": "announced-Verb-PastTense",
+            "text": "announced",
+            "normalized": "announced",
+            "tags": [
+                "Verb",
+                "PastTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "on-Preposition": {
+            "id": "on-Preposition",
+            "text": "on",
+            "normalized": "on",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 3
+        },
+        "march-ProperNoun-Noun-Date-Month": {
+            "id": "march-ProperNoun-Noun-Date-Month",
+            "text": "March",
+            "normalized": "march",
+            "tags": [
+                "ProperNoun",
+                "Noun",
+                "Date",
+                "Month"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "15-Value-Cardinal-NumericValue-Date": {
+            "id": "15-Value-Cardinal-NumericValue-Date",
+            "text": "15",
+            "normalized": "15",
+            "tags": [
+                "Value",
+                "Cardinal",
+                "NumericValue",
+                "Date"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "2023-Value-Cardinal-NumericValue-Year-Date": {
+            "id": "2023-Value-Cardinal-NumericValue-Year-Date",
+            "text": "2023",
+            "normalized": "2023",
+            "tags": [
+                "Value",
+                "Cardinal",
+                "NumericValue",
+                "Year",
+                "Date"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "we're-Noun-Pronoun": {
+            "id": "we're-Noun-Pronoun",
+            "text": "We're",
+            "normalized": "we're",
+            "tags": [
+                "Noun",
+                "Pronoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "-Verb-Copula-Auxiliary": {
+            "id": "-Verb-Copula-Auxiliary",
+            "text": "",
+            "normalized": "",
+            "tags": [
+                "Verb",
+                "Copula",
+                "Auxiliary"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "developing-Noun-Actor": {
+            "id": "developing-Noun-Actor",
+            "text": "developing",
+            "normalized": "developing",
+            "tags": [
+                "Noun",
+                "Actor"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "revolutionary-Noun-Actor-Singular": {
+            "id": "revolutionary-Noun-Actor-Singular",
+            "text": "revolutionary",
+            "normalized": "revolutionary",
+            "tags": [
+                "Noun",
+                "Actor",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "ai-Acronym-Noun": {
+            "id": "ai-Acronym-Noun",
+            "text": "AI",
+            "normalized": "ai",
+            "tags": [
+                "Acronym",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 3
+        },
+        "technology-Noun-Singular": {
+            "id": "technology-Noun-Singular",
+            "text": "technology",
+            "normalized": "technology",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "this-Determiner": {
+            "id": "this-Determiner",
+            "text": "This",
+            "normalized": "this",
+            "tags": [
+                "Determiner"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 3
+        },
+        "innovative-Adjective": {
+            "id": "innovative-Adjective",
+            "text": "innovative",
+            "normalized": "innovative",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "project-Noun-Singular": {
+            "id": "project-Noun-Singular",
+            "text": "project",
+            "normalized": "project",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "could-Verb-Modal-Auxiliary": {
+            "id": "could-Verb-Modal-Auxiliary",
+            "text": "could",
+            "normalized": "could",
+            "tags": [
+                "Verb",
+                "Modal",
+                "Auxiliary"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "change-Verb-PresentTense-Infinitive": {
+            "id": "change-Verb-PresentTense-Infinitive",
+            "text": "change",
+            "normalized": "change",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "the-Determiner": {
+            "id": "the-Determiner",
+            "text": "the",
+            "normalized": "the",
+            "tags": [
+                "Determiner"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 21
+        },
+        "future-Noun-Singular": {
+            "id": "future-Noun-Singular",
+            "text": "future",
+            "normalized": "future",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "of-Preposition": {
+            "id": "of-Preposition",
+            "text": "of",
+            "normalized": "of",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Verb",
+                "Noun",
+                "Pivot"
+            ],
+            "frequency": 9
+        },
+        "computing-Gerund-Verb-PresentTense": {
+            "id": "computing-Gerund-Verb-PresentTense",
+            "text": "computing",
+            "normalized": "computing",
+            "tags": [
+                "Gerund",
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "quick-Adjective": {
+            "id": "quick-Adjective",
+            "text": "quick",
+            "normalized": "quick",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "brown-Adjective-Comparative": {
+            "id": "brown-Adjective-Comparative",
+            "text": "brown",
+            "normalized": "brown",
+            "tags": [
+                "Adjective",
+                "Comparative"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "fox-Noun-Singular": {
+            "id": "fox-Noun-Singular",
+            "text": "fox",
+            "normalized": "fox",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "jumps-Verb-PresentTense": {
+            "id": "jumps-Verb-PresentTense",
+            "text": "jumps",
+            "normalized": "jumps",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "over-Adjective": {
+            "id": "over-Adjective",
+            "text": "over",
+            "normalized": "over",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "lazy-Adjective": {
+            "id": "lazy-Adjective",
+            "text": "lazy",
+            "normalized": "lazy",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "dog-Noun-Singular": {
+            "id": "dog-Noun-Singular",
+            "text": "dog",
+            "normalized": "dog",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "classic-Adjective": {
+            "id": "classic-Adjective",
+            "text": "classic",
+            "normalized": "classic",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "sentence-Noun-Singular": {
+            "id": "sentence-Noun-Singular",
+            "text": "sentence",
+            "normalized": "sentence",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 7
+        },
+        "contains-Verb-PresentTense": {
+            "id": "contains-Verb-PresentTense",
+            "text": "contains",
+            "normalized": "contains",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "all-Adjective": {
+            "id": "all-Adjective",
+            "text": "all",
+            "normalized": "all",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "letters-Noun-Plural": {
+            "id": "letters-Noun-Plural",
+            "text": "letters",
+            "normalized": "letters",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "english-ProperNoun-Noun": {
+            "id": "english-ProperNoun-Noun",
+            "text": "English",
+            "normalized": "english",
+            "tags": [
+                "ProperNoun",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "alphabet-Noun-Singular": {
+            "id": "alphabet-Noun-Singular",
+            "text": "alphabet",
+            "normalized": "alphabet",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "artificial-Adjective": {
+            "id": "artificial-Adjective",
+            "text": "Artificial",
+            "normalized": "artificial",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "intelligence-Singular-Noun": {
+            "id": "intelligence-Singular-Noun",
+            "text": "intelligence",
+            "normalized": "intelligence",
+            "tags": [
+                "Singular",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "is-Verb-Copula-Auxiliary": {
+            "id": "is-Verb-Copula-Auxiliary",
+            "text": "is",
+            "normalized": "is",
+            "tags": [
+                "Verb",
+                "Copula",
+                "Auxiliary"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 3
+        },
+        "transforming-Verb-PresentTense-Gerund": {
+            "id": "transforming-Verb-PresentTense-Gerund",
+            "text": "transforming",
+            "normalized": "transforming",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "industries-Noun-Plural": {
+            "id": "industries-Noun-Plural",
+            "text": "industries",
+            "normalized": "industries",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "worldwide-Adjective": {
+            "id": "worldwide-Adjective",
+            "text": "worldwide",
+            "normalized": "worldwide",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "companies-Noun-Plural": {
+            "id": "companies-Noun-Plural",
+            "text": "Companies",
+            "normalized": "companies",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "like-Preposition": {
+            "id": "like-Preposition",
+            "text": "like",
+            "normalized": "like",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [],
+            "frequency": 1
+        },
+        "google-Noun-ProperNoun-Organization": {
+            "id": "google-Noun-ProperNoun-Organization",
+            "text": "Google",
+            "normalized": "google",
+            "tags": [
+                "Noun",
+                "ProperNoun",
+                "Organization"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "and-Conjunction": {
+            "id": "and-Conjunction",
+            "text": "and",
+            "normalized": "and",
+            "tags": [
+                "Conjunction"
+            ],
+            "chunks": [
+                "Noun",
+                "Pivot"
+            ],
+            "frequency": 8
+        },
+        "microsoft-Noun-ProperNoun-Organization": {
+            "id": "microsoft-Noun-ProperNoun-Organization",
+            "text": "Microsoft",
+            "normalized": "microsoft",
+            "tags": [
+                "Noun",
+                "ProperNoun",
+                "Organization"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "are-Verb-Copula-Auxiliary": {
+            "id": "are-Verb-Copula-Auxiliary",
+            "text": "are",
+            "normalized": "are",
+            "tags": [
+                "Verb",
+                "Copula",
+                "Auxiliary"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "investing-Verb-PresentTense-Gerund": {
+            "id": "investing-Verb-PresentTense-Gerund",
+            "text": "investing",
+            "normalized": "investing",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "billions-Value-TextValue-Cardinal": {
+            "id": "billions-Value-TextValue-Cardinal",
+            "text": "billions",
+            "normalized": "billions",
+            "tags": [
+                "Value",
+                "TextValue",
+                "Cardinal"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "research-Noun-Singular": {
+            "id": "research-Noun-Singular",
+            "text": "research",
+            "normalized": "research",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "climate-Singular-Noun": {
+            "id": "climate-Singular-Noun",
+            "text": "Climate",
+            "normalized": "climate",
+            "tags": [
+                "Singular",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "change-Noun-Singular": {
+            "id": "change-Noun-Singular",
+            "text": "change",
+            "normalized": "change",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "remains-Verb-PresentTense": {
+            "id": "remains-Verb-PresentTense",
+            "text": "remains",
+            "normalized": "remains",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 3
+        },
+        "one-Value-TextValue-Cardinal": {
+            "id": "one-Value-TextValue-Cardinal",
+            "text": "one",
+            "normalized": "one",
+            "tags": [
+                "Value",
+                "TextValue",
+                "Cardinal"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "humanity's-Noun-Singular-Possessive": {
+            "id": "humanity's-Noun-Singular-Possessive",
+            "text": "humanity's",
+            "normalized": "humanity's",
+            "tags": [
+                "Noun",
+                "Singular",
+                "Possessive"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "greatest-Adjective-Superlative": {
+            "id": "greatest-Adjective-Superlative",
+            "text": "greatest",
+            "normalized": "greatest",
+            "tags": [
+                "Adjective",
+                "Superlative"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "challenges-Noun-Plural": {
+            "id": "challenges-Noun-Plural",
+            "text": "challenges",
+            "normalized": "challenges",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "rising-Verb-PresentTense-Gerund": {
+            "id": "rising-Verb-PresentTense-Gerund",
+            "text": "Rising",
+            "normalized": "rising",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "temperatures-Plural-Noun": {
+            "id": "temperatures-Plural-Noun",
+            "text": "temperatures",
+            "normalized": "temperatures",
+            "tags": [
+                "Plural",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "causing-Verb-PresentTense-Gerund": {
+            "id": "causing-Verb-PresentTense-Gerund",
+            "text": "causing",
+            "normalized": "causing",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "extreme-Adjective": {
+            "id": "extreme-Adjective",
+            "text": "extreme",
+            "normalized": "extreme",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "weather-Noun-Singular": {
+            "id": "weather-Noun-Singular",
+            "text": "weather",
+            "normalized": "weather",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "events-Noun-Plural": {
+            "id": "events-Noun-Plural",
+            "text": "events",
+            "normalized": "events",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "across-Preposition": {
+            "id": "across-Preposition",
+            "text": "across",
+            "normalized": "across",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 2
+        },
+        "globe-Noun-Singular": {
+            "id": "globe-Noun-Singular",
+            "text": "globe",
+            "normalized": "globe",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "scientists-Noun-Plural-Actor": {
+            "id": "scientists-Noun-Plural-Actor",
+            "text": "Scientists",
+            "normalized": "scientists",
+            "tags": [
+                "Noun",
+                "Plural",
+                "Actor"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "warn-Verb-PresentTense-Infinitive": {
+            "id": "warn-Verb-PresentTense-Infinitive",
+            "text": "warn",
+            "normalized": "warn",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "we-Noun-Pronoun": {
+            "id": "we-Noun-Pronoun",
+            "text": "we",
+            "normalized": "we",
+            "tags": [
+                "Noun",
+                "Pronoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "must-Verb-Modal-Auxiliary": {
+            "id": "must-Verb-Modal-Auxiliary",
+            "text": "must",
+            "normalized": "must",
+            "tags": [
+                "Verb",
+                "Modal",
+                "Auxiliary"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "act-Verb-PresentTense-Infinitive": {
+            "id": "act-Verb-PresentTense-Infinitive",
+            "text": "act",
+            "normalized": "act",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "before-Conjunction": {
+            "id": "before-Conjunction",
+            "text": "before",
+            "normalized": "before",
+            "tags": [
+                "Conjunction"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 1
+        },
+        "2030-Value-Cardinal-NumericValue-Year-Date": {
+            "id": "2030-Value-Cardinal-NumericValue-Year-Date",
+            "text": "2030",
+            "normalized": "2030",
+            "tags": [
+                "Value",
+                "Cardinal",
+                "NumericValue",
+                "Year",
+                "Date"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "to-Conjunction": {
+            "id": "to-Conjunction",
+            "text": "to",
+            "normalized": "to",
+            "tags": [
+                "Conjunction"
+            ],
+            "chunks": [
+                "Pivot",
+                "Verb"
+            ],
+            "frequency": 9
+        },
+        "avoid-Verb-PresentTense-Infinitive": {
+            "id": "avoid-Verb-PresentTense-Infinitive",
+            "text": "avoid",
+            "normalized": "avoid",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "catastrophic-Adjective": {
+            "id": "catastrophic-Adjective",
+            "text": "catastrophic",
+            "normalized": "catastrophic",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "consequences-Noun-Plural": {
+            "id": "consequences-Noun-Plural",
+            "text": "consequences",
+            "normalized": "consequences",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "code-Noun-Singular": {
+            "id": "code-Noun-Singular",
+            "text": "code",
+            "normalized": "code",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "basically-Adverb": {
+            "id": "basically-Adverb",
+            "text": "basically",
+            "normalized": "basically",
+            "tags": [
+                "Adverb"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "doing-Verb-PresentTense-Gerund": {
+            "id": "doing-Verb-PresentTense-Gerund",
+            "text": "doing",
+            "normalized": "doing",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "some-Determiner": {
+            "id": "some-Determiner",
+            "text": "some",
+            "normalized": "some",
+            "tags": [
+                "Determiner"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "natural-Adjective": {
+            "id": "natural-Adjective",
+            "text": "natural",
+            "normalized": "natural",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "language-Noun-Singular": {
+            "id": "language-Noun-Singular",
+            "text": "language",
+            "normalized": "language",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "processing-Noun-Singular": {
+            "id": "processing-Noun-Singular",
+            "text": "processing",
+            "normalized": "processing",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "nlp-Acronym-Noun": {
+            "id": "nlp-Acronym-Noun",
+            "text": "NLP",
+            "normalized": "nlp",
+            "tags": [
+                "Acronym",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "a-Value": {
+            "id": "a-Value",
+            "text": "a",
+            "normalized": "a",
+            "tags": [
+                "Value"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "few-Value": {
+            "id": "few-Value",
+            "text": "few",
+            "normalized": "few",
+            "tags": [
+                "Value"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "paragraphs-Noun-Plural": {
+            "id": "paragraphs-Noun-Plural",
+            "text": "paragraphs",
+            "normalized": "paragraphs",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "then-Adverb": {
+            "id": "then-Adverb",
+            "text": "then",
+            "normalized": "then",
+            "tags": [
+                "Adverb"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 4
+        },
+        "it-Noun-Pronoun": {
+            "id": "it-Noun-Pronoun",
+            "text": "it",
+            "normalized": "it",
+            "tags": [
+                "Noun",
+                "Pronoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 10
+        },
+        "randomly-Adverb": {
+            "id": "randomly-Adverb",
+            "text": "randomly",
+            "normalized": "randomly",
+            "tags": [
+                "Adverb"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "generates-Verb-PresentTense": {
+            "id": "generates-Verb-PresentTense",
+            "text": "generates",
+            "normalized": "generates",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "new-Adjective": {
+            "id": "new-Adjective",
+            "text": "new",
+            "normalized": "new",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 3
+        },
+        "sentences-Noun-Plural": {
+            "id": "sentences-Noun-Plural",
+            "text": "sentences",
+            "normalized": "sentences",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "based-Verb-PastTense": {
+            "id": "based-Verb-PastTense",
+            "text": "based",
+            "normalized": "based",
+            "tags": [
+                "Verb",
+                "PastTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "processed-Adjective": {
+            "id": "processed-Adjective",
+            "text": "processed",
+            "normalized": "processed",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "data-Noun-Singular": {
+            "id": "data-Noun-Singular",
+            "text": "data",
+            "normalized": "data",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "here's-Noun-Uncountable": {
+            "id": "here's-Noun-Uncountable",
+            "text": "Here's",
+            "normalized": "here's",
+            "tags": [
+                "Noun",
+                "Uncountable"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "-Verb-Copula-PresentTense": {
+            "id": "-Verb-Copula-PresentTense",
+            "text": "",
+            "normalized": "",
+            "tags": [
+                "Verb",
+                "Copula",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "a-Determiner": {
+            "id": "a-Determiner",
+            "text": "a",
+            "normalized": "a",
+            "tags": [
+                "Determiner"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 11
+        },
+        "simple-Adjective": {
+            "id": "simple-Adjective",
+            "text": "simple",
+            "normalized": "simple",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "breakdown-Noun-Singular": {
+            "id": "breakdown-Noun-Singular",
+            "text": "breakdown",
+            "normalized": "breakdown",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "parsing-Gerund-Verb-PresentTense": {
+            "id": "parsing-Gerund-Verb-PresentTense",
+            "text": "Parsing",
+            "normalized": "parsing",
+            "tags": [
+                "Gerund",
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "text-Noun-Singular-ProperNoun": {
+            "id": "text-Noun-Singular-ProperNoun",
+            "text": "Text",
+            "normalized": "text",
+            "tags": [
+                "Noun",
+                "Singular",
+                "ProperNoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "uses-Verb-PresentTense": {
+            "id": "uses-Verb-PresentTense",
+            "text": "uses",
+            "normalized": "uses",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "compromise-Noun-Singular": {
+            "id": "compromise-Noun-Singular",
+            "text": "compromise",
+            "normalized": "compromise",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "library-Noun-Singular": {
+            "id": "library-Noun-Singular",
+            "text": "library",
+            "normalized": "library",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "convert-Verb-PresentTense-Infinitive": {
+            "id": "convert-Verb-PresentTense-Infinitive",
+            "text": "convert",
+            "normalized": "convert",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "each-Determiner": {
+            "id": "each-Determiner",
+            "text": "each",
+            "normalized": "each",
+            "tags": [
+                "Determiner"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 4
+        },
+        "paragraph-Noun-Singular": {
+            "id": "paragraph-Noun-Singular",
+            "text": "paragraph",
+            "normalized": "paragraph",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "into-Preposition": {
+            "id": "into-Preposition",
+            "text": "into",
+            "normalized": "into",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 2
+        },
+        "json-Acronym-Noun-ProperNoun-Organization": {
+            "id": "json-Acronym-Noun-ProperNoun-Organization",
+            "text": "JSON",
+            "normalized": "json",
+            "tags": [
+                "Acronym",
+                "Noun",
+                "ProperNoun",
+                "Organization"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "data-Noun-Singular-ProperNoun-Organization": {
+            "id": "data-Noun-Singular-ProperNoun-Organization",
+            "text": "data",
+            "normalized": "data",
+            "tags": [
+                "Noun",
+                "Singular",
+                "ProperNoun",
+                "Organization"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "that-Determiner": {
+            "id": "that-Determiner",
+            "text": "that",
+            "normalized": "that",
+            "tags": [
+                "Determiner"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 7
+        },
+        "includes-Verb-PresentTense": {
+            "id": "includes-Verb-PresentTense",
+            "text": "includes",
+            "normalized": "includes",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "words-Noun-Plural": {
+            "id": "words-Noun-Plural",
+            "text": "words",
+            "normalized": "words",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 5
+        },
+        "their-Noun-Possessive-Pronoun": {
+            "id": "their-Noun-Possessive-Pronoun",
+            "text": "their",
+            "normalized": "their",
+            "tags": [
+                "Noun",
+                "Possessive",
+                "Pronoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "tags-Noun-Plural": {
+            "id": "tags-Noun-Plural",
+            "text": "tags",
+            "normalized": "tags",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "chunks-Noun-Plural": {
+            "id": "chunks-Noun-Plural",
+            "text": "chunks",
+            "normalized": "chunks",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "groupings-Noun-Plural": {
+            "id": "groupings-Noun-Plural",
+            "text": "groupings",
+            "normalized": "groupings",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "organizing-Verb-PresentTense-Gerund": {
+            "id": "organizing-Verb-PresentTense-Gerund",
+            "text": "Organizing",
+            "normalized": "organizing",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "data-ProperNoun-Noun": {
+            "id": "data-ProperNoun-Noun",
+            "text": "Data",
+            "normalized": "data",
+            "tags": [
+                "ProperNoun",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "maps-Verb-PresentTense": {
+            "id": "maps-Verb-PresentTense",
+            "text": "maps",
+            "normalized": "maps",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "structure-Noun-Singular": {
+            "id": "structure-Noun-Singular",
+            "text": "structure",
+            "normalized": "structure",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 3
+        },
+        "text-Noun-Singular": {
+            "id": "text-Noun-Singular",
+            "text": "text",
+            "normalized": "text",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 3
+        },
+        "an-Determiner": {
+            "id": "an-Determiner",
+            "text": "An",
+            "normalized": "an",
+            "tags": [
+                "Determiner"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "array-Noun-Singular": {
+            "id": "array-Noun-Singular",
+            "text": "array",
+            "normalized": "array",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "word-Noun-Singular": {
+            "id": "word-Noun-Singular",
+            "text": "word",
+            "normalized": "word",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 3
+        },
+        "with-Preposition": {
+            "id": "with-Preposition",
+            "text": "with",
+            "normalized": "with",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 3
+        },
+        "its-Noun-Possessive": {
+            "id": "its-Noun-Possessive",
+            "text": "its",
+            "normalized": "its",
+            "tags": [
+                "Noun",
+                "Possessive"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "tags-Verb-PresentTense": {
+            "id": "tags-Verb-PresentTense",
+            "text": "tags",
+            "normalized": "tags",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "optionally-Adverb": {
+            "id": "optionally-Adverb",
+            "text": "optionally",
+            "normalized": "optionally",
+            "tags": [
+                "Adverb"
+            ],
+            "chunks": [],
+            "frequency": 1
+        },
+        "chunk-Noun-Singular": {
+            "id": "chunk-Noun-Singular",
+            "text": "chunk",
+            "normalized": "chunk",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 3
+        },
+        "sentence-Verb-PresentTense-Infinitive": {
+            "id": "sentence-Verb-PresentTense-Infinitive",
+            "text": "sentence",
+            "normalized": "sentence",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "generating-Verb-PresentTense-Gerund": {
+            "id": "generating-Verb-PresentTense-Gerund",
+            "text": "Generating",
+            "normalized": "generating",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "random-ProperNoun-Noun": {
+            "id": "random-ProperNoun-Noun",
+            "text": "Random",
+            "normalized": "random",
+            "tags": [
+                "ProperNoun",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "sentences-ProperNoun-Noun": {
+            "id": "sentences-ProperNoun-Noun",
+            "text": "Sentences",
+            "normalized": "sentences",
+            "tags": [
+                "ProperNoun",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "collects-Verb-PresentTense": {
+            "id": "collects-Verb-PresentTense",
+            "text": "collects",
+            "normalized": "collects",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "all-Adverb": {
+            "id": "all-Adverb",
+            "text": "all",
+            "normalized": "all",
+            "tags": [
+                "Adverb"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "possible-Adjective": {
+            "id": "possible-Adjective",
+            "text": "possible",
+            "normalized": "possible",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "structures-Plural-Noun": {
+            "id": "structures-Plural-Noun",
+            "text": "structures",
+            "normalized": "structures",
+            "tags": [
+                "Plural",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "from-Preposition": {
+            "id": "from-Preposition",
+            "text": "from",
+            "normalized": "from",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 1
+        },
+        "analysis-Noun-Singular": {
+            "id": "analysis-Noun-Singular",
+            "text": "analysis",
+            "normalized": "analysis",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "for-Preposition": {
+            "id": "for-Preposition",
+            "text": "for",
+            "normalized": "for",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 1
+        },
+        "random-Adjective": {
+            "id": "random-Adjective",
+            "text": "random",
+            "normalized": "random",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 3
+        },
+        "picks-Verb-PresentTense": {
+            "id": "picks-Verb-PresentTense",
+            "text": "picks",
+            "normalized": "picks",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "belongs-Verb-PresentTense": {
+            "id": "belongs-Verb-PresentTense",
+            "text": "belongs",
+            "normalized": "belongs",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "joins-Verb-PresentTense": {
+            "id": "joins-Verb-PresentTense",
+            "text": "joins",
+            "normalized": "joins",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "these-Determiner": {
+            "id": "these-Determiner",
+            "text": "these",
+            "normalized": "these",
+            "tags": [
+                "Determiner"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "together-Adjective": {
+            "id": "together-Adjective",
+            "text": "together",
+            "normalized": "together",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "create-Verb-PresentTense-Infinitive": {
+            "id": "create-Verb-PresentTense-Infinitive",
+            "text": "create",
+            "normalized": "create",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "makes-Verb-PresentTense-PhrasalVerb": {
+            "id": "makes-Verb-PresentTense-PhrasalVerb",
+            "text": "makes",
+            "normalized": "makes",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "PhrasalVerb"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "sure-Verb-PhrasalVerb-Particle": {
+            "id": "sure-Verb-PhrasalVerb-Particle",
+            "text": "sure",
+            "normalized": "sure",
+            "tags": [
+                "Verb",
+                "PhrasalVerb",
+                "Particle"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "punctuation-Singular-Noun": {
+            "id": "punctuation-Singular-Noun",
+            "text": "punctuation",
+            "normalized": "punctuation",
+            "tags": [
+                "Singular",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "capitalization-Singular-Noun": {
+            "id": "capitalization-Singular-Noun",
+            "text": "capitalization",
+            "normalized": "capitalization",
+            "tags": [
+                "Singular",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "are-Verb-Copula-PresentTense": {
+            "id": "are-Verb-Copula-PresentTense",
+            "text": "are",
+            "normalized": "are",
+            "tags": [
+                "Verb",
+                "Copula",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "fixed-Adjective": {
+            "id": "fixed-Adjective",
+            "text": "fixed",
+            "normalized": "fixed",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Adjective"
+            ],
+            "frequency": 1
+        },
+        "working-Verb-PresentTense-Gerund": {
+            "id": "working-Verb-PresentTense-Gerund",
+            "text": "Working",
+            "normalized": "working",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "files-Noun-Plural-ProperNoun": {
+            "id": "files-Noun-Plural-ProperNoun",
+            "text": "Files",
+            "normalized": "files",
+            "tags": [
+                "Noun",
+                "Plural",
+                "ProperNoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "reads-Verb-PresentTense": {
+            "id": "reads-Verb-PresentTense",
+            "text": "reads",
+            "normalized": "reads",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "json-Acronym-Noun": {
+            "id": "json-Acronym-Noun",
+            "text": "JSON",
+            "normalized": "json",
+            "tags": [
+                "Acronym",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "file-Noun-Singular": {
+            "id": "file-Noun-Singular",
+            "text": "file",
+            "normalized": "file",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "data.json-Noun-Singular": {
+            "id": "data.json-Noun-Singular",
+            "text": "data.json",
+            "normalized": "data.json",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "get-Verb-PresentTense-Infinitive": {
+            "id": "get-Verb-PresentTense-Infinitive",
+            "text": "get",
+            "normalized": "get",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "pre-analyzed-Verb-PastTense": {
+            "id": "pre-analyzed-Verb-PastTense",
+            "text": "pre-analyzed",
+            "normalized": "pre-analyzed",
+            "tags": [
+                "Verb",
+                "PastTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "if-Conjunction": {
+            "id": "if-Conjunction",
+            "text": "if",
+            "normalized": "if",
+            "tags": [
+                "Conjunction"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 2
+        },
+        "exists-Verb-PresentTense": {
+            "id": "exists-Verb-PresentTense",
+            "text": "exists",
+            "normalized": "exists",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "writes-Verb-PresentTense": {
+            "id": "writes-Verb-PresentTense",
+            "text": "writes",
+            "normalized": "writes",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "results-Verb-PresentTense": {
+            "id": "results-Verb-PresentTense",
+            "text": "results",
+            "normalized": "results",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "back-Adverb": {
+            "id": "back-Adverb",
+            "text": "back",
+            "normalized": "back",
+            "tags": [
+                "Adverb"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "after-Preposition": {
+            "id": "after-Preposition",
+            "text": "after",
+            "normalized": "after",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "processing-Verb-PresentTense-Gerund": {
+            "id": "processing-Verb-PresentTense-Gerund",
+            "text": "processing",
+            "normalized": "processing",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "overall-Verb-PresentTense-Infinitive": {
+            "id": "overall-Verb-PresentTense-Infinitive",
+            "text": "Overall",
+            "normalized": "overall",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "code's-Noun-Possessive": {
+            "id": "code's-Noun-Possessive",
+            "text": "code's",
+            "normalized": "code's",
+            "tags": [
+                "Noun",
+                "Possessive"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "aim-Noun-Singular": {
+            "id": "aim-Noun-Singular",
+            "text": "aim",
+            "normalized": "aim",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "is-Verb-Copula-PresentTense": {
+            "id": "is-Verb-Copula-PresentTense",
+            "text": "is",
+            "normalized": "is",
+            "tags": [
+                "Verb",
+                "Copula",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 3
+        },
+        "experiment-Verb-PresentTense-Infinitive": {
+            "id": "experiment-Verb-PresentTense-Infinitive",
+            "text": "experiment",
+            "normalized": "experiment",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "generation-Singular-Noun": {
+            "id": "generation-Singular-Noun",
+            "text": "generation",
+            "normalized": "generation",
+            "tags": [
+                "Singular",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "using-Verb-PresentTense-Gerund": {
+            "id": "using-Verb-PresentTense-Gerund",
+            "text": "using",
+            "normalized": "using",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "selection-Singular-Noun": {
+            "id": "selection-Singular-Noun",
+            "text": "selection",
+            "normalized": "selection",
+            "tags": [
+                "Singular",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "might-Verb-Modal-Auxiliary": {
+            "id": "might-Verb-Modal-Auxiliary",
+            "text": "might",
+            "normalized": "might",
+            "tags": [
+                "Verb",
+                "Modal",
+                "Auxiliary"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "be-Verb-PresentTense-Infinitive": {
+            "id": "be-Verb-PresentTense-Infinitive",
+            "text": "be",
+            "normalized": "be",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 2
+        },
+        "fun-Adjective": {
+            "id": "fun-Adjective",
+            "text": "fun",
+            "normalized": "fun",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "way-Noun-Singular": {
+            "id": "way-Noun-Singular",
+            "text": "way",
+            "normalized": "way",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "see-Verb-PresentTense-Infinitive": {
+            "id": "see-Verb-PresentTense-Infinitive",
+            "text": "see",
+            "normalized": "see",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "how-QuestionWord": {
+            "id": "how-QuestionWord",
+            "text": "how",
+            "normalized": "how",
+            "tags": [
+                "QuestionWord"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 1
+        },
+        "can-Verb-Modal-Auxiliary": {
+            "id": "can-Verb-Modal-Auxiliary",
+            "text": "can",
+            "normalized": "can",
+            "tags": [
+                "Verb",
+                "Modal",
+                "Auxiliary"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "be-Verb-Auxiliary": {
+            "id": "be-Verb-Auxiliary",
+            "text": "be",
+            "normalized": "be",
+            "tags": [
+                "Verb",
+                "Auxiliary"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "reassembled-Verb-PastTense": {
+            "id": "reassembled-Verb-PastTense",
+            "text": "reassembled",
+            "normalized": "reassembled",
+            "tags": [
+                "Verb",
+                "PastTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "unexpected-Adjective": {
+            "id": "unexpected-Adjective",
+            "text": "unexpected",
+            "normalized": "unexpected",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "ways-Noun-Plural": {
+            "id": "ways-Noun-Plural",
+            "text": "ways",
+            "normalized": "ways",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "let-Verb-PresentTense-Infinitive-Imperative": {
+            "id": "let-Verb-PresentTense-Infinitive-Imperative",
+            "text": "Let",
+            "normalized": "let",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive",
+                "Imperative"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "me-Noun-Pronoun": {
+            "id": "me-Noun-Pronoun",
+            "text": "me",
+            "normalized": "me",
+            "tags": [
+                "Noun",
+                "Pronoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "know-Verb-PresentTense-Infinitive-Imperative": {
+            "id": "know-Verb-PresentTense-Infinitive-Imperative",
+            "text": "know",
+            "normalized": "know",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive",
+                "Imperative"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "you-Noun-Pronoun": {
+            "id": "you-Noun-Pronoun",
+            "text": "you",
+            "normalized": "you",
+            "tags": [
+                "Noun",
+                "Pronoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 2
+        },
+        "need-Verb-PresentTense-Infinitive": {
+            "id": "need-Verb-PresentTense-Infinitive",
+            "text": "need",
+            "normalized": "need",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "more-Adjective": {
+            "id": "more-Adjective",
+            "text": "more",
+            "normalized": "more",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "details-Noun-Plural": {
+            "id": "details-Noun-Plural",
+            "text": "details",
+            "normalized": "details",
+            "tags": [
+                "Noun",
+                "Plural"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "or-Conjunction": {
+            "id": "or-Conjunction",
+            "text": "or",
+            "normalized": "or",
+            "tags": [
+                "Conjunction"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 1
+        },
+        "have-Verb-PresentTense-Infinitive": {
+            "id": "have-Verb-PresentTense-Infinitive",
+            "text": "have",
+            "normalized": "have",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "any-Determiner": {
+            "id": "any-Determiner",
+            "text": "any",
+            "normalized": "any",
+            "tags": [
+                "Determiner"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "other-Adjective": {
+            "id": "other-Adjective",
+            "text": "other",
+            "normalized": "other",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "questions-Verb-PresentTense": {
+            "id": "questions-Verb-PresentTense",
+            "text": "questions",
+            "normalized": "questions",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "about-Preposition": {
+            "id": "about-Preposition",
+            "text": "about",
+            "normalized": "about",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 1
+        },
+        "no-Expression": {
+            "id": "no-Expression",
+            "text": "No",
+            "normalized": "no",
+            "tags": [
+                "Expression"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "not-Negative": {
+            "id": "not-Negative",
+            "text": "not",
+            "normalized": "not",
+            "tags": [
+                "Negative"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "grammatically-Adverb": {
+            "id": "grammatically-Adverb",
+            "text": "grammatically",
+            "normalized": "grammatically",
+            "tags": [
+                "Adverb"
+            ],
+            "chunks": [
+                "Adjective"
+            ],
+            "frequency": 1
+        },
+        "correct-Adjective": {
+            "id": "correct-Adjective",
+            "text": "correct",
+            "normalized": "correct",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "seems-Verb-PresentTense": {
+            "id": "seems-Verb-PresentTense",
+            "text": "seems",
+            "normalized": "seems",
+            "tags": [
+                "Verb",
+                "PresentTense"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "like-Adverb": {
+            "id": "like-Adverb",
+            "text": "like",
+            "normalized": "like",
+            "tags": [
+                "Adverb"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "out-Preposition": {
+            "id": "out-Preposition",
+            "text": "out",
+            "normalized": "out",
+            "tags": [
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 1
+        },
+        "order-Noun-Singular": {
+            "id": "order-Noun-Singular",
+            "text": "order",
+            "normalized": "order",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "correction-Singular-Noun": {
+            "id": "correction-Singular-Noun",
+            "text": "correction",
+            "normalized": "correction",
+            "tags": [
+                "Singular",
+                "Noun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "will-Verb-Modal-Auxiliary": {
+            "id": "will-Verb-Modal-Auxiliary",
+            "text": "will",
+            "normalized": "will",
+            "tags": [
+                "Verb",
+                "Modal",
+                "Auxiliary"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "but-Conjunction": {
+            "id": "but-Conjunction",
+            "text": "But",
+            "normalized": "but",
+            "tags": [
+                "Conjunction"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 1
+        },
+        "meaning-Noun-Singular": {
+            "id": "meaning-Noun-Singular",
+            "text": "meaning",
+            "normalized": "meaning",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "still-Adjective": {
+            "id": "still-Adjective",
+            "text": "still",
+            "normalized": "still",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Adjective"
+            ],
+            "frequency": 1
+        },
+        "bit-Noun-Singular": {
+            "id": "bit-Noun-Singular",
+            "text": "bit",
+            "normalized": "bit",
+            "tags": [
+                "Noun",
+                "Singular"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "unclear-Adjective": {
+            "id": "unclear-Adjective",
+            "text": "unclear",
+            "normalized": "unclear",
+            "tags": [
+                "Adjective"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "could-Verb-Modal": {
+            "id": "could-Verb-Modal",
+            "text": "Could",
+            "normalized": "could",
+            "tags": [
+                "Verb",
+                "Modal"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "clarify-Infinitive-Verb-PresentTense-Imperative": {
+            "id": "clarify-Infinitive-Verb-PresentTense-Imperative",
+            "text": "clarify",
+            "normalized": "clarify",
+            "tags": [
+                "Infinitive",
+                "Verb",
+                "PresentTense",
+                "Imperative"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "what-Conjunction-Preposition": {
+            "id": "what-Conjunction-Preposition",
+            "text": "what",
+            "normalized": "what",
+            "tags": [
+                "Conjunction",
+                "Preposition"
+            ],
+            "chunks": [
+                "Pivot"
+            ],
+            "frequency": 1
+        },
+        "you're-Noun-Pronoun": {
+            "id": "you're-Noun-Pronoun",
+            "text": "you're",
+            "normalized": "you're",
+            "tags": [
+                "Noun",
+                "Pronoun"
+            ],
+            "chunks": [
+                "Noun"
+            ],
+            "frequency": 1
+        },
+        "trying-Verb-PresentTense-Gerund": {
+            "id": "trying-Verb-PresentTense-Gerund",
+            "text": "trying",
+            "normalized": "trying",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Gerund"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        },
+        "say-Verb-PresentTense-Infinitive": {
+            "id": "say-Verb-PresentTense-Infinitive",
+            "text": "say",
+            "normalized": "say",
+            "tags": [
+                "Verb",
+                "PresentTense",
+                "Infinitive"
+            ],
+            "chunks": [
+                "Verb"
+            ],
+            "frequency": 1
+        }
+    },
+    "sentences": [
+        {
+            "id": "sent-0",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "john-Noun-Singular-Person-FirstName-ProperNoun-MaleName",
+                "doe-ProperNoun-Noun-Singular-Person-LastName",
+                "works-Verb-PresentTense",
+                "at-Preposition",
+                "openai-ProperNoun-Noun",
+                "in-Preposition",
+                "san-Noun-Singular-Place-ProperNoun-City",
+                "francisco-Noun-Singular-Place-ProperNoun-City"
+            ]
+        },
+        {
+            "id": "sent-1",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "he-Noun-Pronoun",
+                "announced-Verb-PastTense",
+                "on-Preposition",
+                "march-ProperNoun-Noun-Date-Month",
+                "15-Value-Cardinal-NumericValue-Date",
+                "2023-Value-Cardinal-NumericValue-Year-Date",
+                "we're-Noun-Pronoun",
+                "-Verb-Copula-Auxiliary",
+                "developing-Noun-Actor",
+                "revolutionary-Noun-Actor-Singular",
+                "ai-Acronym-Noun",
+                "technology-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-2",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb"
+            ],
+            "wordIds": [
+                "this-Determiner",
+                "innovative-Adjective",
+                "project-Noun-Singular",
+                "could-Verb-Modal-Auxiliary",
+                "change-Verb-PresentTense-Infinitive",
+                "the-Determiner",
+                "future-Noun-Singular",
+                "of-Preposition",
+                "computing-Gerund-Verb-PresentTense"
+            ]
+        },
+        {
+            "id": "sent-3",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "the-Determiner",
+                "quick-Adjective",
+                "brown-Adjective-Comparative",
+                "fox-Noun-Singular",
+                "jumps-Verb-PresentTense",
+                "over-Adjective",
+                "the-Determiner",
+                "lazy-Adjective",
+                "dog-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-4",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "this-Determiner",
+                "classic-Adjective",
+                "sentence-Noun-Singular",
+                "contains-Verb-PresentTense",
+                "all-Adjective",
+                "letters-Noun-Plural",
+                "of-Preposition",
+                "the-Determiner",
+                "english-ProperNoun-Noun",
+                "alphabet-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-5",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "artificial-Adjective",
+                "intelligence-Singular-Noun",
+                "is-Verb-Copula-Auxiliary",
+                "transforming-Verb-PresentTense-Gerund",
+                "industries-Noun-Plural",
+                "worldwide-Adjective"
+            ]
+        },
+        {
+            "id": "sent-6",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "companies-Noun-Plural",
+                "like-Preposition",
+                "google-Noun-ProperNoun-Organization",
+                "and-Conjunction",
+                "microsoft-Noun-ProperNoun-Organization",
+                "are-Verb-Copula-Auxiliary",
+                "investing-Verb-PresentTense-Gerund",
+                "billions-Value-TextValue-Cardinal",
+                "in-Preposition",
+                "ai-Acronym-Noun",
+                "research-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-7",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "climate-Singular-Noun",
+                "change-Noun-Singular",
+                "remains-Verb-PresentTense",
+                "one-Value-TextValue-Cardinal",
+                "of-Preposition",
+                "humanity's-Noun-Singular-Possessive",
+                "greatest-Adjective-Superlative",
+                "challenges-Noun-Plural"
+            ]
+        },
+        {
+            "id": "sent-8",
+            "structure": [
+                "Verb",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "rising-Verb-PresentTense-Gerund",
+                "temperatures-Plural-Noun",
+                "are-Verb-Copula-Auxiliary",
+                "causing-Verb-PresentTense-Gerund",
+                "extreme-Adjective",
+                "weather-Noun-Singular",
+                "events-Noun-Plural",
+                "across-Preposition",
+                "the-Determiner",
+                "globe-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-9",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Pivot",
+                "Verb",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "scientists-Noun-Plural-Actor",
+                "warn-Verb-PresentTense-Infinitive",
+                "we-Noun-Pronoun",
+                "must-Verb-Modal-Auxiliary",
+                "act-Verb-PresentTense-Infinitive",
+                "before-Conjunction",
+                "2030-Value-Cardinal-NumericValue-Year-Date",
+                "to-Conjunction",
+                "avoid-Verb-PresentTense-Infinitive",
+                "catastrophic-Adjective",
+                "consequences-Noun-Plural"
+            ]
+        },
+        {
+            "id": "sent-10",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "this-Determiner",
+                "code-Noun-Singular",
+                "is-Verb-Copula-Auxiliary",
+                "basically-Adverb",
+                "doing-Verb-PresentTense-Gerund",
+                "some-Determiner",
+                "natural-Adjective",
+                "language-Noun-Singular",
+                "processing-Noun-Singular",
+                "nlp-Acronym-Noun",
+                "on-Preposition",
+                "a-Value",
+                "few-Value",
+                "paragraphs-Noun-Plural",
+                "then-Adverb",
+                "it-Noun-Pronoun",
+                "randomly-Adverb",
+                "generates-Verb-PresentTense",
+                "new-Adjective",
+                "sentences-Noun-Plural",
+                "based-Verb-PastTense",
+                "on-Preposition",
+                "the-Determiner",
+                "processed-Adjective",
+                "data-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-11",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "here's-Noun-Uncountable",
+                "-Verb-Copula-PresentTense",
+                "a-Determiner",
+                "simple-Adjective",
+                "breakdown-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-12",
+            "structure": [
+                "Verb",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "parsing-Gerund-Verb-PresentTense",
+                "the-Determiner",
+                "text-Noun-Singular-ProperNoun"
+            ]
+        },
+        {
+            "id": "sent-13",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "it-Noun-Pronoun",
+                "uses-Verb-PresentTense",
+                "the-Determiner",
+                "compromise-Noun-Singular",
+                "library-Noun-Singular",
+                "to-Conjunction",
+                "convert-Verb-PresentTense-Infinitive",
+                "each-Determiner",
+                "paragraph-Noun-Singular",
+                "into-Preposition",
+                "json-Acronym-Noun-ProperNoun-Organization",
+                "data-Noun-Singular-ProperNoun-Organization",
+                "that-Determiner",
+                "includes-Verb-PresentTense",
+                "words-Noun-Plural",
+                "their-Noun-Possessive-Pronoun",
+                "tags-Noun-Plural",
+                "and-Conjunction",
+                "chunks-Noun-Plural",
+                "groupings-Noun-Plural",
+                "of-Preposition",
+                "words-Noun-Plural"
+            ]
+        },
+        {
+            "id": "sent-14",
+            "structure": [
+                "Verb",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "organizing-Verb-PresentTense-Gerund",
+                "the-Determiner",
+                "data-ProperNoun-Noun"
+            ]
+        },
+        {
+            "id": "sent-15",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb"
+            ],
+            "wordIds": [
+                "the-Determiner",
+                "code-Noun-Singular",
+                "then-Adverb",
+                "maps-Verb-PresentTense",
+                "each-Determiner",
+                "sentence-Noun-Singular",
+                "into-Preposition",
+                "a-Determiner",
+                "structure-Noun-Singular",
+                "that-Determiner",
+                "includes-Verb-PresentTense"
+            ]
+        },
+        {
+            "id": "sent-16",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "the-Determiner",
+                "sentence-Noun-Singular",
+                "text-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-17",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "an-Determiner",
+                "array-Noun-Singular",
+                "of-Preposition",
+                "words-Noun-Plural",
+                "each-Determiner",
+                "word-Noun-Singular",
+                "with-Preposition",
+                "its-Noun-Possessive",
+                "text-Noun-Singular",
+                "tags-Verb-PresentTense",
+                "and-Conjunction",
+                "optionally-Adverb",
+                "a-Determiner",
+                "chunk-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-18",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun"
+            ],
+            "wordIds": [
+                "an-Determiner",
+                "array-Noun-Singular",
+                "of-Preposition",
+                "chunks-Noun-Plural",
+                "sentence-Verb-PresentTense-Infinitive",
+                "structure-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-19",
+            "structure": [
+                "Verb",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "generating-Verb-PresentTense-Gerund",
+                "random-ProperNoun-Noun",
+                "sentences-ProperNoun-Noun"
+            ]
+        },
+        {
+            "id": "sent-20",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Pivot",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "it-Noun-Pronoun",
+                "collects-Verb-PresentTense",
+                "all-Adverb",
+                "possible-Adjective",
+                "sentence-Noun-Singular",
+                "structures-Plural-Noun",
+                "from-Preposition",
+                "the-Determiner",
+                "analysis-Noun-Singular",
+                "and-Conjunction",
+                "then-Adverb",
+                "for-Preposition",
+                "each-Determiner",
+                "chunk-Noun-Singular",
+                "in-Preposition",
+                "a-Determiner",
+                "random-Adjective",
+                "structure-Noun-Singular",
+                "it-Noun-Pronoun",
+                "picks-Verb-PresentTense",
+                "a-Determiner",
+                "random-Adjective",
+                "word-Noun-Singular",
+                "that-Determiner",
+                "belongs-Verb-PresentTense",
+                "to-Conjunction",
+                "that-Determiner",
+                "chunk-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-21",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Adjective"
+            ],
+            "wordIds": [
+                "it-Noun-Pronoun",
+                "joins-Verb-PresentTense",
+                "these-Determiner",
+                "words-Noun-Plural",
+                "together-Adjective",
+                "to-Conjunction",
+                "create-Verb-PresentTense-Infinitive",
+                "a-Determiner",
+                "new-Adjective",
+                "sentence-Noun-Singular",
+                "and-Conjunction",
+                "makes-Verb-PresentTense-PhrasalVerb",
+                "sure-Verb-PhrasalVerb-Particle",
+                "the-Determiner",
+                "punctuation-Singular-Noun",
+                "and-Conjunction",
+                "capitalization-Singular-Noun",
+                "are-Verb-Copula-PresentTense",
+                "fixed-Adjective"
+            ]
+        },
+        {
+            "id": "sent-22",
+            "structure": [
+                "Verb",
+                "Pivot",
+                "Noun"
+            ],
+            "wordIds": [
+                "working-Verb-PresentTense-Gerund",
+                "with-Preposition",
+                "files-Noun-Plural-ProperNoun"
+            ]
+        },
+        {
+            "id": "sent-23",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Verb",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Pivot",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "it-Noun-Pronoun",
+                "reads-Verb-PresentTense",
+                "a-Determiner",
+                "json-Acronym-Noun",
+                "file-Noun-Singular",
+                "data.json-Noun-Singular",
+                "to-Conjunction",
+                "get-Verb-PresentTense-Infinitive",
+                "some-Determiner",
+                "pre-analyzed-Verb-PastTense",
+                "data-Noun-Singular",
+                "if-Conjunction",
+                "it-Noun-Pronoun",
+                "exists-Verb-PresentTense",
+                "and-Conjunction",
+                "then-Adverb",
+                "writes-Verb-PresentTense",
+                "the-Determiner",
+                "new-Adjective",
+                "analysis-Noun-Singular",
+                "results-Verb-PresentTense",
+                "back-Adverb",
+                "to-Conjunction",
+                "that-Determiner",
+                "file-Noun-Singular",
+                "after-Preposition",
+                "processing-Verb-PresentTense-Gerund",
+                "the-Determiner",
+                "paragraphs-Noun-Plural"
+            ]
+        },
+        {
+            "id": "sent-24",
+            "structure": [
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "overall-Verb-PresentTense-Infinitive",
+                "the-Determiner",
+                "code's-Noun-Possessive",
+                "aim-Noun-Singular",
+                "is-Verb-Copula-PresentTense",
+                "to-Conjunction",
+                "experiment-Verb-PresentTense-Infinitive",
+                "with-Preposition",
+                "text-Noun-Singular",
+                "generation-Singular-Noun",
+                "using-Verb-PresentTense-Gerund",
+                "sentence-Noun-Singular",
+                "structures-Plural-Noun",
+                "and-Conjunction",
+                "random-Adjective",
+                "word-Noun-Singular",
+                "selection-Singular-Noun"
+            ]
+        },
+        {
+            "id": "sent-25",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "it-Noun-Pronoun",
+                "might-Verb-Modal-Auxiliary",
+                "be-Verb-PresentTense-Infinitive",
+                "a-Determiner",
+                "fun-Adjective",
+                "way-Noun-Singular",
+                "to-Conjunction",
+                "see-Verb-PresentTense-Infinitive",
+                "how-QuestionWord",
+                "sentences-Noun-Plural",
+                "can-Verb-Modal-Auxiliary",
+                "be-Verb-Auxiliary",
+                "reassembled-Verb-PastTense",
+                "in-Preposition",
+                "unexpected-Adjective",
+                "ways-Noun-Plural"
+            ]
+        },
+        {
+            "id": "sent-26",
+            "structure": [
+                "Verb",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Pivot",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Noun"
+            ],
+            "wordIds": [
+                "let-Verb-PresentTense-Infinitive-Imperative",
+                "me-Noun-Pronoun",
+                "know-Verb-PresentTense-Infinitive-Imperative",
+                "if-Conjunction",
+                "you-Noun-Pronoun",
+                "need-Verb-PresentTense-Infinitive",
+                "more-Adjective",
+                "details-Noun-Plural",
+                "or-Conjunction",
+                "have-Verb-PresentTense-Infinitive",
+                "any-Determiner",
+                "other-Adjective",
+                "questions-Verb-PresentTense",
+                "about-Preposition",
+                "it-Noun-Pronoun"
+            ]
+        },
+        {
+            "id": "sent-27",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Adjective",
+                "Noun"
+            ],
+            "wordIds": [
+                "no-Expression",
+                "that-Determiner",
+                "sentence-Noun-Singular",
+                "is-Verb-Copula-PresentTense",
+                "not-Negative",
+                "grammatically-Adverb",
+                "correct-Adjective"
+            ]
+        },
+        {
+            "id": "sent-28",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Pivot",
+                "Noun"
+            ],
+            "wordIds": [
+                "it-Noun-Pronoun",
+                "seems-Verb-PresentTense",
+                "like-Adverb",
+                "the-Determiner",
+                "words-Noun-Plural",
+                "are-Verb-Copula-PresentTense",
+                "out-Preposition",
+                "of-Preposition",
+                "order-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-29",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb"
+            ],
+            "wordIds": [
+                "a-Determiner",
+                "possible-Adjective",
+                "correction-Singular-Noun",
+                "could-Verb-Modal-Auxiliary",
+                "be-Verb-PresentTense-Infinitive"
+            ]
+        },
+        {
+            "id": "sent-30",
+            "structure": [
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "ai-Acronym-Noun",
+                "remains-Verb-PresentTense",
+                "a-Determiner",
+                "project-Noun-Singular",
+                "that-Determiner",
+                "will-Verb-Modal-Auxiliary",
+                "change-Verb-PresentTense-Infinitive",
+                "companies-Noun-Plural",
+                "across-Preposition",
+                "the-Determiner",
+                "future-Noun-Singular",
+                "of-Preposition",
+                "english-ProperNoun-Noun"
+            ]
+        },
+        {
+            "id": "sent-31",
+            "structure": [
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Adjective",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "but-Conjunction",
+                "the-Determiner",
+                "meaning-Noun-Singular",
+                "is-Verb-Copula-PresentTense",
+                "still-Adjective",
+                "a-Determiner",
+                "bit-Noun-Singular",
+                "unclear-Adjective"
+            ]
+        },
+        {
+            "id": "sent-32",
+            "structure": [
+                "Verb",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Verb",
+                "Verb"
+            ],
+            "wordIds": [
+                "could-Verb-Modal",
+                "you-Noun-Pronoun",
+                "clarify-Infinitive-Verb-PresentTense-Imperative",
+                "what-Conjunction-Preposition",
+                "you're-Noun-Pronoun",
+                "-Verb-Copula-Auxiliary",
+                "trying-Verb-PresentTense-Gerund",
+                "to-Conjunction",
+                "say-Verb-PresentTense-Infinitive"
+            ]
+        },
+        {
+            "id": "sent-33",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Verb",
+                "Pivot",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "john-Noun-Singular-Person-FirstName-ProperNoun-MaleName",
+                "doe-ProperNoun-Noun-Singular-Person-LastName",
+                "works-Verb-PresentTense",
+                "at-Preposition",
+                "openai-ProperNoun-Noun",
+                "in-Preposition",
+                "san-Noun-Singular-Place-ProperNoun-City",
+                "francisco-Noun-Singular-Place-ProperNoun-City"
+            ]
+        },
+        {
+            "id": "sent-34",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "the-Determiner",
+                "quick-Adjective",
+                "brown-Adjective-Comparative",
+                "fox-Noun-Singular",
+                "jumps-Verb-PresentTense",
+                "over-Adjective",
+                "the-Determiner",
+                "lazy-Adjective",
+                "dog-Noun-Singular"
+            ]
+        },
+        {
+            "id": "sent-35",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Verb",
+                "Verb",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "artificial-Adjective",
+                "intelligence-Singular-Noun",
+                "is-Verb-Copula-Auxiliary",
+                "transforming-Verb-PresentTense-Gerund",
+                "industries-Noun-Plural",
+                "worldwide-Adjective"
+            ]
+        },
+        {
+            "id": "sent-36",
+            "structure": [
+                "Noun",
+                "Noun",
+                "Verb",
+                "Noun",
+                "Pivot",
+                "Noun",
+                "Noun",
+                "Noun"
+            ],
+            "wordIds": [
+                "climate-Singular-Noun",
+                "change-Noun-Singular",
+                "remains-Verb-PresentTense",
+                "one-Value-TextValue-Cardinal",
+                "of-Preposition",
+                "humanity's-Noun-Singular-Possessive",
+                "greatest-Adjective-Superlative",
+                "challenges-Noun-Plural"
+            ]
+        }
+    ],
+    "ngrams": {
+        "bigrams": {
+            "15": {
+                "2023": 1
+            },
+            "2023": {
+                "we're": 1
+            },
+            "2030": {
+                "to": 1
+            },
+            "john": {
+                "doe": 1
+            },
+            "doe": {
+                "works": 1
+            },
+            "works": {
+                "at": 1
+            },
+            "at": {
+                "openai": 1
+            },
+            "openai": {
+                "in": 1
+            },
+            "in": {
+                "san": 0.4,
+                "ai": 0.2,
+                "a": 0.2,
+                "unexpected": 0.2
+            },
+            "san": {
+                "francisco": 1
+            },
+            "he": {
+                "announced": 1
+            },
+            "announced": {
+                "on": 1
+            },
+            "on": {
+                "march": 0.3333333333333333,
+                "a": 0.3333333333333333,
+                "the": 0.3333333333333333
+            },
+            "march": {
+                "15": 1
+            },
+            "we're": {
+                "": 1
+            },
+            "": {
+                "developing": 0.3333333333333333,
+                "a": 0.3333333333333333,
+                "trying": 0.3333333333333333
+            },
+            "developing": {
+                "revolutionary": 1
+            },
+            "revolutionary": {
+                "ai": 1
+            },
+            "ai": {
+                "technology": 0.3333333333333333,
+                "research": 0.3333333333333333,
+                "remains": 0.3333333333333333
+            },
+            "this": {
+                "innovative": 0.3333333333333333,
+                "classic": 0.3333333333333333,
+                "code": 0.3333333333333333
+            },
+            "innovative": {
+                "project": 1
+            },
+            "project": {
+                "could": 0.5,
+                "that": 0.5
+            },
+            "could": {
+                "change": 0.3333333333333333,
+                "be": 0.3333333333333333,
+                "you": 0.3333333333333333
+            },
+            "change": {
+                "the": 0.25,
+                "remains": 0.5,
+                "companies": 0.25
+            },
+            "the": {
+                "future": 0.09523809523809523,
+                "quick": 0.09523809523809523,
+                "lazy": 0.09523809523809523,
+                "english": 0.047619047619047616,
+                "globe": 0.047619047619047616,
+                "processed": 0.047619047619047616,
+                "text": 0.047619047619047616,
+                "compromise": 0.047619047619047616,
+                "data": 0.047619047619047616,
+                "code": 0.047619047619047616,
+                "sentence": 0.047619047619047616,
+                "analysis": 0.047619047619047616,
+                "punctuation": 0.047619047619047616,
+                "new": 0.047619047619047616,
+                "paragraphs": 0.047619047619047616,
+                "code's": 0.047619047619047616,
+                "words": 0.047619047619047616,
+                "meaning": 0.047619047619047616
+            },
+            "future": {
+                "of": 1
+            },
+            "of": {
+                "computing": 0.1111111111111111,
+                "the": 0.1111111111111111,
+                "humanity's": 0.2222222222222222,
+                "words": 0.2222222222222222,
+                "chunks": 0.1111111111111111,
+                "order": 0.1111111111111111,
+                "english": 0.1111111111111111
+            },
+            "quick": {
+                "brown": 1
+            },
+            "brown": {
+                "fox": 1
+            },
+            "fox": {
+                "jumps": 1
+            },
+            "jumps": {
+                "over": 1
+            },
+            "over": {
+                "the": 1
+            },
+            "lazy": {
+                "dog": 1
+            },
+            "classic": {
+                "sentence": 1
+            },
+            "sentence": {
+                "contains": 0.125,
+                "into": 0.125,
+                "text": 0.125,
+                "structure": 0.125,
+                "structures": 0.25,
+                "and": 0.125,
+                "is": 0.125
+            },
+            "contains": {
+                "all": 1
+            },
+            "all": {
+                "letters": 0.5,
+                "possible": 0.5
+            },
+            "letters": {
+                "of": 1
+            },
+            "english": {
+                "alphabet": 1
+            },
+            "artificial": {
+                "intelligence": 1
+            },
+            "intelligence": {
+                "is": 1
+            },
+            "is": {
+                "transforming": 0.3333333333333333,
+                "basically": 0.16666666666666666,
+                "to": 0.16666666666666666,
+                "not": 0.16666666666666666,
+                "still": 0.16666666666666666
+            },
+            "transforming": {
+                "industries": 1
+            },
+            "industries": {
+                "worldwide": 1
+            },
+            "companies": {
+                "like": 0.5,
+                "across": 0.5
+            },
+            "like": {
+                "google": 0.5,
+                "the": 0.5
+            },
+            "google": {
+                "and": 1
+            },
+            "and": {
+                "microsoft": 0.125,
+                "chunks": 0.125,
+                "optionally": 0.125,
+                "then": 0.25,
+                "makes": 0.125,
+                "capitalization": 0.125,
+                "random": 0.125
+            },
+            "microsoft": {
+                "are": 1
+            },
+            "are": {
+                "investing": 0.25,
+                "causing": 0.25,
+                "fixed": 0.25,
+                "out": 0.25
+            },
+            "investing": {
+                "billions": 1
+            },
+            "billions": {
+                "in": 1
+            },
+            "climate": {
+                "change": 1
+            },
+            "remains": {
+                "one": 0.6666666666666666,
+                "a": 0.3333333333333333
+            },
+            "one": {
+                "of": 1
+            },
+            "humanity's": {
+                "greatest": 1
+            },
+            "greatest": {
+                "challenges": 1
+            },
+            "rising": {
+                "temperatures": 1
+            },
+            "temperatures": {
+                "are": 1
+            },
+            "causing": {
+                "extreme": 1
+            },
+            "extreme": {
+                "weather": 1
+            },
+            "weather": {
+                "events": 1
+            },
+            "events": {
+                "across": 1
+            },
+            "across": {
+                "the": 1
+            },
+            "scientists": {
+                "warn": 1
+            },
+            "warn": {
+                "we": 1
+            },
+            "we": {
+                "must": 1
+            },
+            "must": {
+                "act": 1
+            },
+            "act": {
+                "before": 1
+            },
+            "before": {
+                "2030": 1
+            },
+            "to": {
+                "avoid": 0.1111111111111111,
+                "convert": 0.1111111111111111,
+                "that": 0.2222222222222222,
+                "create": 0.1111111111111111,
+                "get": 0.1111111111111111,
+                "experiment": 0.1111111111111111,
+                "see": 0.1111111111111111,
+                "say": 0.1111111111111111
+            },
+            "avoid": {
+                "catastrophic": 1
+            },
+            "catastrophic": {
+                "consequences": 1
+            },
+            "code": {
+                "is": 0.5,
+                "then": 0.5
+            },
+            "basically": {
+                "doing": 1
+            },
+            "doing": {
+                "some": 1
+            },
+            "some": {
+                "natural": 0.5,
+                "pre-analyzed": 0.5
+            },
+            "natural": {
+                "language": 1
+            },
+            "language": {
+                "processing": 1
+            },
+            "processing": {
+                "nlp": 0.5,
+                "the": 0.5
+            },
+            "nlp": {
+                "on": 1
+            },
+            "a": {
+                "few": 0.08333333333333333,
+                "simple": 0.08333333333333333,
+                "structure": 0.08333333333333333,
+                "chunk": 0.08333333333333333,
+                "random": 0.16666666666666666,
+                "new": 0.08333333333333333,
+                "json": 0.08333333333333333,
+                "fun": 0.08333333333333333,
+                "possible": 0.08333333333333333,
+                "project": 0.08333333333333333,
+                "bit": 0.08333333333333333
+            },
+            "few": {
+                "paragraphs": 1
+            },
+            "paragraphs": {
+                "then": 1
+            },
+            "then": {
+                "it": 0.25,
+                "maps": 0.25,
+                "for": 0.25,
+                "writes": 0.25
+            },
+            "it": {
+                "randomly": 0.1111111111111111,
+                "uses": 0.1111111111111111,
+                "collects": 0.1111111111111111,
+                "picks": 0.1111111111111111,
+                "joins": 0.1111111111111111,
+                "reads": 0.1111111111111111,
+                "exists": 0.1111111111111111,
+                "might": 0.1111111111111111,
+                "seems": 0.1111111111111111
+            },
+            "randomly": {
+                "generates": 1
+            },
+            "generates": {
+                "new": 1
+            },
+            "new": {
+                "sentences": 0.3333333333333333,
+                "sentence": 0.3333333333333333,
+                "analysis": 0.3333333333333333
+            },
+            "sentences": {
+                "based": 0.5,
+                "can": 0.5
+            },
+            "based": {
+                "on": 1
+            },
+            "processed": {
+                "data": 1
+            },
+            "here's": {
+                "": 1
+            },
+            "simple": {
+                "breakdown": 1
+            },
+            "parsing": {
+                "the": 1
+            },
+            "uses": {
+                "the": 1
+            },
+            "compromise": {
+                "library": 1
+            },
+            "library": {
+                "to": 1
+            },
+            "convert": {
+                "each": 1
+            },
+            "each": {
+                "paragraph": 0.25,
+                "sentence": 0.25,
+                "word": 0.25,
+                "chunk": 0.25
+            },
+            "paragraph": {
+                "into": 1
+            },
+            "into": {
+                "json": 0.5,
+                "a": 0.5
+            },
+            "json": {
+                "data": 0.5,
+                "file": 0.5
+            },
+            "data": {
+                "that": 0.5,
+                "if": 0.5
+            },
+            "that": {
+                "includes": 0.2857142857142857,
+                "belongs": 0.14285714285714285,
+                "chunk": 0.14285714285714285,
+                "file": 0.14285714285714285,
+                "sentence": 0.14285714285714285,
+                "will": 0.14285714285714285
+            },
+            "includes": {
+                "words": 1
+            },
+            "words": {
+                "their": 0.25,
+                "each": 0.25,
+                "together": 0.25,
+                "are": 0.25
+            },
+            "their": {
+                "tags": 1
+            },
+            "tags": {
+                "and": 1
+            },
+            "chunks": {
+                "groupings": 0.5,
+                "sentence": 0.5
+            },
+            "groupings": {
+                "of": 1
+            },
+            "organizing": {
+                "the": 1
+            },
+            "maps": {
+                "each": 1
+            },
+            "structure": {
+                "that": 0.5,
+                "it": 0.5
+            },
+            "an": {
+                "array": 1
+            },
+            "array": {
+                "of": 1
+            },
+            "word": {
+                "with": 0.3333333333333333,
+                "that": 0.3333333333333333,
+                "selection": 0.3333333333333333
+            },
+            "with": {
+                "its": 0.3333333333333333,
+                "files": 0.3333333333333333,
+                "text": 0.3333333333333333
+            },
+            "its": {
+                "text": 1
+            },
+            "text": {
+                "tags": 0.5,
+                "generation": 0.5
+            },
+            "optionally": {
+                "a": 1
+            },
+            "generating": {
+                "random": 1
+            },
+            "random": {
+                "sentences": 0.25,
+                "structure": 0.25,
+                "word": 0.5
+            },
+            "collects": {
+                "all": 1
+            },
+            "possible": {
+                "sentence": 0.5,
+                "correction": 0.5
+            },
+            "structures": {
+                "from": 0.5,
+                "and": 0.5
+            },
+            "from": {
+                "the": 1
+            },
+            "analysis": {
+                "and": 0.5,
+                "results": 0.5
+            },
+            "for": {
+                "each": 1
+            },
+            "chunk": {
+                "in": 1
+            },
+            "picks": {
+                "a": 1
+            },
+            "belongs": {
+                "to": 1
+            },
+            "joins": {
+                "these": 1
+            },
+            "these": {
+                "words": 1
+            },
+            "together": {
+                "to": 1
+            },
+            "create": {
+                "a": 1
+            },
+            "makes": {
+                "sure": 1
+            },
+            "sure": {
+                "the": 1
+            },
+            "punctuation": {
+                "and": 1
+            },
+            "capitalization": {
+                "are": 1
+            },
+            "working": {
+                "with": 1
+            },
+            "reads": {
+                "a": 1
+            },
+            "file": {
+                "data.json": 0.5,
+                "after": 0.5
+            },
+            "data.json": {
+                "to": 1
+            },
+            "get": {
+                "some": 1
+            },
+            "pre-analyzed": {
+                "data": 1
+            },
+            "if": {
+                "it": 0.5,
+                "you": 0.5
+            },
+            "exists": {
+                "and": 1
+            },
+            "writes": {
+                "the": 1
+            },
+            "results": {
+                "back": 1
+            },
+            "back": {
+                "to": 1
+            },
+            "after": {
+                "processing": 1
+            },
+            "overall": {
+                "the": 1
+            },
+            "code's": {
+                "aim": 1
+            },
+            "aim": {
+                "is": 1
+            },
+            "experiment": {
+                "with": 1
+            },
+            "generation": {
+                "using": 1
+            },
+            "using": {
+                "sentence": 1
+            },
+            "might": {
+                "be": 1
+            },
+            "be": {
+                "a": 0.5,
+                "reassembled": 0.5
+            },
+            "fun": {
+                "way": 1
+            },
+            "way": {
+                "to": 1
+            },
+            "see": {
+                "how": 1
+            },
+            "how": {
+                "sentences": 1
+            },
+            "can": {
+                "be": 1
+            },
+            "reassembled": {
+                "in": 1
+            },
+            "unexpected": {
+                "ways": 1
+            },
+            "let": {
+                "me": 1
+            },
+            "me": {
+                "know": 1
+            },
+            "know": {
+                "if": 1
+            },
+            "you": {
+                "need": 0.5,
+                "clarify": 0.5
+            },
+            "need": {
+                "more": 1
+            },
+            "more": {
+                "details": 1
+            },
+            "details": {
+                "or": 1
+            },
+            "or": {
+                "have": 1
+            },
+            "have": {
+                "any": 1
+            },
+            "any": {
+                "other": 1
+            },
+            "other": {
+                "questions": 1
+            },
+            "questions": {
+                "about": 1
+            },
+            "about": {
+                "it": 1
+            },
+            "no": {
+                "that": 1
+            },
+            "not": {
+                "grammatically": 1
+            },
+            "grammatically": {
+                "correct": 1
+            },
+            "seems": {
+                "like": 1
+            },
+            "out": {
+                "of": 1
+            },
+            "correction": {
+                "could": 1
+            },
+            "will": {
+                "change": 1
+            },
+            "but": {
+                "the": 1
+            },
+            "meaning": {
+                "is": 1
+            },
+            "still": {
+                "a": 1
+            },
+            "bit": {
+                "unclear": 1
+            },
+            "clarify": {
+                "what": 1
+            },
+            "what": {
+                "you're": 1
+            },
+            "you're": {
+                "": 1
+            },
+            "trying": {
+                "to": 1
+            }
+        },
+        "chunkSequences": {
+            "Noun->Noun->Verb->Pivot->Noun->Pivot->Noun->Noun": 0.05405405405405406,
+            "Noun->Verb->Pivot->Noun->Noun->Noun->Noun->Verb->Noun->Noun->Noun->Noun": 0.02702702702702703,
+            "Noun->Noun->Noun->Verb->Verb->Noun->Noun->Verb->Verb": 0.02702702702702703,
+            "Noun->Noun->Noun->Noun->Verb->Noun->Noun->Noun->Noun": 0.05405405405405406,
+            "Noun->Noun->Noun->Verb->Noun->Noun->Noun->Noun->Noun->Noun": 0.02702702702702703,
+            "Noun->Noun->Verb->Verb->Noun->Noun": 0.05405405405405406,
+            "Noun->Noun->Noun->Noun->Verb->Verb->Noun->Pivot->Noun->Noun": 0.02702702702702703,
+            "Noun->Noun->Verb->Noun->Pivot->Noun->Noun->Noun": 0.05405405405405406,
+            "Verb->Noun->Verb->Verb->Noun->Noun->Noun->Pivot->Noun->Noun": 0.02702702702702703,
+            "Noun->Verb->Noun->Verb->Verb->Pivot->Noun->Pivot->Verb->Noun->Noun": 0.02702702702702703,
+            "Noun->Noun->Verb->Verb->Verb->Noun->Noun->Noun->Noun->Noun->Pivot->Noun->Noun->Noun->Pivot->Noun->Verb->Verb->Noun->Noun->Verb->Pivot->Noun->Noun->Noun": 0.02702702702702703,
+            "Noun->Verb->Noun->Noun->Noun": 0.02702702702702703,
+            "Verb->Noun->Noun": 0.08108108108108109,
+            "Noun->Verb->Noun->Noun->Noun->Pivot->Verb->Noun->Noun->Pivot->Noun->Noun->Noun->Verb->Noun->Noun->Noun->Noun->Noun->Noun->Noun->Noun": 0.02702702702702703,
+            "Noun->Noun->Pivot->Verb->Noun->Noun->Pivot->Noun->Noun->Noun->Verb": 0.02702702702702703,
+            "Noun->Noun->Noun": 0.02702702702702703,
+            "Noun->Noun->Noun->Noun->Noun->Noun->Pivot->Noun->Noun->Verb->Pivot->Noun->Noun": 0.02702702702702703,
+            "Noun->Noun->Noun->Noun->Verb->Noun": 0.02702702702702703,
+            "Noun->Verb->Verb->Noun->Noun->Noun->Pivot->Noun->Noun->Pivot->Pivot->Pivot->Noun->Noun->Pivot->Noun->Noun->Noun->Noun->Verb->Noun->Noun->Noun->Noun->Verb->Pivot->Noun->Noun": 0.02702702702702703,
+            "Noun->Verb->Noun->Noun->Noun->Pivot->Verb->Noun->Noun->Noun->Pivot->Verb->Verb->Noun->Noun->Noun->Noun->Verb->Adjective": 0.02702702702702703,
+            "Verb->Pivot->Noun": 0.02702702702702703,
+            "Noun->Verb->Noun->Noun->Noun->Noun->Pivot->Verb->Noun->Verb->Noun->Pivot->Noun->Verb->Pivot->Pivot->Verb->Noun->Noun->Noun->Verb->Noun->Pivot->Noun->Noun->Verb->Verb->Noun->Noun": 0.02702702702702703,
+            "Verb->Noun->Noun->Noun->Verb->Verb->Verb->Pivot->Noun->Noun->Verb->Noun->Noun->Pivot->Noun->Noun->Noun": 0.02702702702702703,
+            "Noun->Verb->Verb->Noun->Noun->Noun->Pivot->Verb->Pivot->Noun->Verb->Verb->Verb->Pivot->Noun->Noun": 0.02702702702702703,
+            "Verb->Noun->Verb->Pivot->Noun->Verb->Noun->Noun->Pivot->Verb->Noun->Noun->Verb->Pivot->Noun": 0.02702702702702703,
+            "Noun->Noun->Noun->Verb->Verb->Adjective->Noun": 0.02702702702702703,
+            "Noun->Verb->Verb->Noun->Noun->Verb->Pivot->Pivot->Noun": 0.02702702702702703,
+            "Noun->Noun->Noun->Verb->Verb": 0.02702702702702703,
+            "Noun->Verb->Noun->Noun->Noun->Verb->Verb->Noun->Pivot->Noun->Noun->Noun->Noun": 0.02702702702702703,
+            "Pivot->Noun->Noun->Verb->Adjective->Noun->Noun->Noun": 0.02702702702702703,
+            "Verb->Noun->Verb->Pivot->Noun->Verb->Verb->Verb->Verb": 0.02702702702702703
+        }
+    },
+    "stats": {
+        "totalWords": 398,
+        "totalSentences": 37,
+        "uniqueWords": 232
+    }
+}

@@ -1,0 +1,537 @@
+[
+    {
+        "text": "John Doe works at OpenAI in San Francisco.",
+        "terms": [
+            {
+                "text": "John",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Noun",
+                    "Singular",
+                    "Person",
+                    "FirstName",
+                    "ProperNoun",
+                    "MaleName"
+                ],
+                "normal": "john",
+                "index": [
+                    0,
+                    0
+                ],
+                "id": "john|01600000W",
+                "chunk": "Noun",
+                "dirty": true
+            },
+            {
+                "text": "Doe",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "ProperNoun",
+                    "Noun",
+                    "Singular",
+                    "Person",
+                    "LastName"
+                ],
+                "normal": "doe",
+                "index": [
+                    0,
+                    1
+                ],
+                "id": "doe|01700001D",
+                "chunk": "Noun",
+                "dirty": true
+            },
+            {
+                "text": "works",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Verb",
+                    "PresentTense"
+                ],
+                "normal": "works",
+                "index": [
+                    0,
+                    2
+                ],
+                "id": "works|01800002L",
+                "chunk": "Verb",
+                "dirty": true,
+                "switch": "Plural|Verb"
+            },
+            {
+                "text": "at",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Preposition"
+                ],
+                "normal": "at",
+                "index": [
+                    0,
+                    3
+                ],
+                "id": "at|01900003S",
+                "dirty": true,
+                "chunk": "Pivot"
+            },
+            {
+                "text": "OpenAI",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "ProperNoun",
+                    "Noun"
+                ],
+                "normal": "openai",
+                "index": [
+                    0,
+                    4
+                ],
+                "id": "openai|01A00004Y",
+                "chunk": "Noun"
+            },
+            {
+                "text": "in",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Preposition"
+                ],
+                "normal": "in",
+                "index": [
+                    0,
+                    5
+                ],
+                "id": "in|01B000050",
+                "dirty": true,
+                "chunk": "Pivot"
+            },
+            {
+                "text": "San",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Noun",
+                    "Singular",
+                    "Place",
+                    "ProperNoun",
+                    "City"
+                ],
+                "normal": "san",
+                "index": [
+                    0,
+                    6
+                ],
+                "id": "san|01C000067",
+                "chunk": "Noun",
+                "dirty": true
+            },
+            {
+                "text": "Francisco",
+                "pre": "",
+                "post": ". \n",
+                "tags": [
+                    "Noun",
+                    "Singular",
+                    "Place",
+                    "ProperNoun",
+                    "City"
+                ],
+                "normal": "francisco",
+                "index": [
+                    0,
+                    7
+                ],
+                "id": "francisco|01D00007L",
+                "chunk": "Noun",
+                "dirty": true
+            }
+        ]
+    },
+    {
+        "text": "He announced on March 15, 2023: \"We're developing revolutionary AI technology\".",
+        "terms": [
+            {
+                "text": "He",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "normal": "he",
+                "index": [
+                    1,
+                    0
+                ],
+                "id": "he|01E001001",
+                "chunk": "Noun",
+                "dirty": true
+            },
+            {
+                "text": "announced",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Verb",
+                    "PastTense"
+                ],
+                "normal": "announced",
+                "index": [
+                    1,
+                    1
+                ],
+                "id": "announced|01F00101G",
+                "chunk": "Verb",
+                "dirty": true
+            },
+            {
+                "text": "on",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Preposition"
+                ],
+                "normal": "on",
+                "index": [
+                    1,
+                    2
+                ],
+                "id": "on|01G00102B",
+                "dirty": true,
+                "chunk": "Pivot"
+            },
+            {
+                "text": "March",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "ProperNoun",
+                    "Noun",
+                    "Date",
+                    "Month"
+                ],
+                "normal": "march",
+                "index": [
+                    1,
+                    3
+                ],
+                "id": "march|01H00103G",
+                "chunk": "Noun",
+                "dirty": true
+            },
+            {
+                "text": "15",
+                "pre": "",
+                "post": ", ",
+                "tags": [
+                    "Value",
+                    "Cardinal",
+                    "NumericValue",
+                    "Date"
+                ],
+                "normal": "15",
+                "index": [
+                    1,
+                    4
+                ],
+                "id": "15|01I001046",
+                "dirty": true,
+                "confidence": 0.6,
+                "chunk": "Noun"
+            },
+            {
+                "text": "2023",
+                "pre": "",
+                "post": ": ",
+                "tags": [
+                    "Value",
+                    "Cardinal",
+                    "NumericValue",
+                    "Year",
+                    "Date"
+                ],
+                "normal": "2023",
+                "index": [
+                    1,
+                    5
+                ],
+                "id": "2023|01J00105Q",
+                "dirty": true,
+                "confidence": 0.6,
+                "chunk": "Noun"
+            },
+            {
+                "text": "We're",
+                "pre": "\"",
+                "post": "",
+                "tags": [
+                    "Noun",
+                    "Pronoun"
+                ],
+                "normal": "we're",
+                "chunk": "Noun",
+                "dirty": true,
+                "index": [
+                    1,
+                    6
+                ],
+                "id": "we|014000001",
+                "implicit": "we",
+                "machine": "we"
+            },
+            {
+                "text": "",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Verb",
+                    "Copula",
+                    "Auxiliary"
+                ],
+                "normal": "",
+                "chunk": "Verb",
+                "dirty": true,
+                "index": [
+                    1,
+                    7
+                ],
+                "id": "are|01500000D",
+                "implicit": "are",
+                "machine": "are"
+            },
+            {
+                "text": "developing",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Noun",
+                    "Actor"
+                ],
+                "normal": "developing",
+                "index": [
+                    1,
+                    8
+                ],
+                "id": "developing|01K001080",
+                "chunk": "Noun",
+                "dirty": true,
+                "switch": "Noun|Gerund"
+            },
+            {
+                "text": "revolutionary",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Noun",
+                    "Actor",
+                    "Singular"
+                ],
+                "normal": "revolutionary",
+                "index": [
+                    1,
+                    9
+                ],
+                "id": "revolutionary|01L00109G",
+                "chunk": "Noun",
+                "dirty": true
+            },
+            {
+                "text": "AI",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Acronym",
+                    "Noun"
+                ],
+                "normal": "ai",
+                "index": [
+                    1,
+                    10
+                ],
+                "id": "ai|01M0010AP",
+                "chunk": "Noun"
+            },
+            {
+                "text": "technology",
+                "pre": "",
+                "post": "\". \n",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "normal": "technology",
+                "index": [
+                    1,
+                    11
+                ],
+                "id": "technology|01N0010BQ",
+                "confidence": 0.7,
+                "chunk": "Noun"
+            }
+        ]
+    },
+    {
+        "text": "This innovative project could change the future of computing.",
+        "terms": [
+            {
+                "text": "This",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Determiner"
+                ],
+                "normal": "this",
+                "index": [
+                    2,
+                    0
+                ],
+                "id": "this|01O00200A",
+                "dirty": true,
+                "chunk": "Noun"
+            },
+            {
+                "text": "innovative",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Adjective"
+                ],
+                "normal": "innovative",
+                "index": [
+                    2,
+                    1
+                ],
+                "id": "innovative|01P00201B",
+                "confidence": 0.7,
+                "chunk": "Noun"
+            },
+            {
+                "text": "project",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "normal": "project",
+                "index": [
+                    2,
+                    2
+                ],
+                "id": "project|01Q00202R",
+                "chunk": "Noun",
+                "dirty": true,
+                "switch": "Noun|Verb"
+            },
+            {
+                "text": "could",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Verb",
+                    "Modal",
+                    "Auxiliary"
+                ],
+                "normal": "could",
+                "index": [
+                    2,
+                    3
+                ],
+                "id": "could|01R00203H",
+                "chunk": "Verb",
+                "dirty": true
+            },
+            {
+                "text": "change",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Verb",
+                    "PresentTense",
+                    "Infinitive"
+                ],
+                "normal": "change",
+                "index": [
+                    2,
+                    4
+                ],
+                "id": "change|01S00204L",
+                "chunk": "Verb",
+                "dirty": true,
+                "switch": "Noun|Verb"
+            },
+            {
+                "text": "the",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Determiner"
+                ],
+                "normal": "the",
+                "index": [
+                    2,
+                    5
+                ],
+                "id": "the|01T00205W",
+                "dirty": true,
+                "chunk": "Noun"
+            },
+            {
+                "text": "future",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Noun",
+                    "Singular"
+                ],
+                "normal": "future",
+                "index": [
+                    2,
+                    6
+                ],
+                "id": "future|01U002067",
+                "dirty": true,
+                "switch": "Adj|Noun",
+                "chunk": "Noun"
+            },
+            {
+                "text": "of",
+                "pre": "",
+                "post": " ",
+                "tags": [
+                    "Preposition"
+                ],
+                "normal": "of",
+                "index": [
+                    2,
+                    7
+                ],
+                "id": "of|01V00207K",
+                "dirty": true,
+                "chunk": "Verb"
+            },
+            {
+                "text": "computing",
+                "pre": "",
+                "post": ".",
+                "tags": [
+                    "Gerund",
+                    "Verb",
+                    "PresentTense"
+                ],
+                "normal": "computing",
+                "index": [
+                    2,
+                    8
+                ],
+                "id": "computing|01W00208C",
+                "confidence": 0.7,
+                "chunk": "Verb"
+            }
+        ]
+    }
+]
